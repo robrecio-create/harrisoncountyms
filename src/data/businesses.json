@@ -14,8 +14,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -36,8 +40,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -58,8 +66,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -80,8 +92,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -102,8 +118,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -124,8 +144,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -146,8 +170,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -168,8 +196,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -190,8 +222,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -212,8 +248,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -234,8 +274,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -256,8 +300,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -278,8 +326,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -300,8 +352,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -322,8 +378,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -344,8 +404,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -366,8 +430,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -388,8 +456,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -410,8 +482,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -432,8 +508,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -454,8 +534,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -476,8 +560,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -498,8 +586,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -520,8 +612,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Saucier"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Saucier"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -542,8 +638,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Saucier"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Saucier"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -564,8 +664,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -586,8 +690,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Bars & Nightlife"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -608,8 +716,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Bars & Nightlife"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -630,8 +742,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Bars & Nightlife"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -652,8 +768,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Bars & Nightlife"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -674,8 +794,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -696,8 +820,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -718,8 +846,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -740,8 +872,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -762,8 +898,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -784,8 +924,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -806,8 +950,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -828,8 +976,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -850,8 +1002,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -872,8 +1028,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Accommodations"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -894,8 +1054,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -916,8 +1080,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -938,8 +1106,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -960,8 +1132,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -982,8 +1158,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1004,8 +1184,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1026,8 +1210,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1048,8 +1236,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Health & Medical"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1070,8 +1262,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1092,8 +1288,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1114,8 +1314,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1136,8 +1340,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1158,8 +1366,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Auto Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1180,8 +1392,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1202,8 +1418,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1224,8 +1444,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1246,8 +1470,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1268,8 +1496,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1290,8 +1522,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1312,8 +1548,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1334,8 +1574,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1356,8 +1600,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1378,8 +1626,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1400,8 +1652,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1422,8 +1678,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Outdoors & Recreation"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1444,8 +1704,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Outdoors & Recreation"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1466,8 +1730,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Outdoors & Recreation"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1488,8 +1756,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Outdoors & Recreation"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1510,8 +1782,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1532,8 +1808,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1554,8 +1834,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1576,8 +1860,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1598,8 +1886,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Animal & Pet Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1620,8 +1912,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1642,8 +1938,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1664,8 +1964,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1686,8 +1990,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1708,8 +2016,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1730,8 +2042,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1752,8 +2068,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1774,8 +2094,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1796,8 +2120,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1818,8 +2146,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1840,8 +2172,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1862,8 +2198,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1884,8 +2224,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1906,8 +2250,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1928,8 +2276,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1950,8 +2302,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1972,8 +2328,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -1994,8 +2354,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2016,8 +2380,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2038,8 +2406,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2060,8 +2432,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2082,8 +2458,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2104,8 +2484,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2126,8 +2510,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Education & Childcare"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2148,8 +2536,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2170,8 +2562,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2192,8 +2588,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2214,8 +2614,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Community Services & Nonprofits"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2236,8 +2640,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Real Estate"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2258,8 +2666,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Real Estate"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2280,8 +2692,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Real Estate"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2302,8 +2718,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Long Beach"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2324,8 +2744,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Saucier"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Saucier"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2346,8 +2770,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2368,8 +2796,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Restaurants & Dining"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2390,8 +2822,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Financial Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2412,8 +2848,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Home Services & Contractors"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2434,8 +2874,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Pass Christian"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2456,8 +2900,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["D'Iberville"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2478,8 +2926,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Arts & Entertainment"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2500,8 +2952,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Beauty & Personal Care"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2522,8 +2978,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Churches & Religious"],
-    "location": ["Saucier"],
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Saucier"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2544,8 +3004,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Shopping & Retail"],
-    "location": ["Biloxi"],
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2566,8 +3030,12 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Professional Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
     "deal_title": "",
     "deal_description": "",
@@ -2588,9 +3056,5327 @@
     "latitude": "",
     "longitude": "",
     "featured": false,
-    "categories": ["Professional Services"],
-    "location": ["Gulfport"],
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
     "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 119,
+    "title": "Salute Italian Seafood Restaurant",
+    "slug": "salute-italian-seafood-restaurant",
+    "status": "publish",
+    "content": "Fine dining Italian and seafood restaurant set under majestic oak trees with Gulf views. Features an open exhibition-style kitchen and fresh Gulf Coast seafood.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3320 W Beach Blvd, Gulfport, MS 39501",
+    "phone": "(228) 864-2500",
+    "email": "",
+    "website": "https://www.salutems.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 120,
+    "title": "The Rack House Steak & Spirits",
+    "slug": "the-rack-house-steak-spirits",
+    "status": "publish",
+    "content": "Rustic steakhouse and cocktail bar offering hand-cut steaks, craft cocktails, and a warm lodge-like atmosphere in downtown Gulfport.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2617 14th St, Gulfport, MS 39501",
+    "phone": "(228) 990-3663",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 121,
+    "title": "Tony's Brick Oven Pizzeria",
+    "slug": "tonys-brick-oven-pizzeria",
+    "status": "publish",
+    "content": "Farm-to-table Italian restaurant featuring brick oven pizzas, fresh pasta, and locally sourced ingredients in a casual family atmosphere.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1606 E Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 896-7878",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 122,
+    "title": "Felix's Restaurant & Oyster Bar",
+    "slug": "felixs-restaurant-oyster-bar",
+    "status": "publish",
+    "content": "Gulf seafood restaurant known for superior quality oysters, shrimp, and fish with beautiful views over the Mississippi Sound.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1500 E Beach Blvd, Gulfport, MS 39501",
+    "phone": "(228) 896-6600",
+    "email": "",
+    "website": "https://www.felixs.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 123,
+    "title": "Beach Blvd Steamer",
+    "slug": "beach-blvd-steamer",
+    "status": "publish",
+    "content": "Casual seafood restaurant on Beach Boulevard offering steamed seafood platters, po'boys, and classic Gulf Coast fare.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1810 E Beach Blvd, Gulfport, MS 39501",
+    "phone": "(228) 249-0014",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 124,
+    "title": "El Aguila Mexican Restaurant",
+    "slug": "el-aguila-mexican-restaurant",
+    "status": "publish",
+    "content": "Authentic Mexican cuisine featuring tacos, enchiladas, burritos, and fresh margaritas in a festive family-friendly setting.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2309 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 328-4100",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 125,
+    "title": "El Garcia's Mexican Grill & Cantina",
+    "slug": "el-garcias-mexican-grill-cantina",
+    "status": "publish",
+    "content": "Mexican grill and cantina serving Tex-Mex favorites including fajitas, quesadillas, and specialty margaritas.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15240 Community Rd, Gulfport, MS 39503",
+    "phone": "(228) 831-4590",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 126,
+    "title": "Shrimp Basket",
+    "slug": "shrimp-basket",
+    "status": "publish",
+    "content": "Casual coastal seafood chain offering fried shrimp baskets, po'boys, and an oyster bar with family-friendly dining.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10491 Auto Mall Pkwy, Gulfport, MS 39503",
+    "phone": "(228) 539-0023",
+    "email": "",
+    "website": "https://www.shrimpbasket.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 127,
+    "title": "Butcher Baker",
+    "slug": "butcher-baker",
+    "status": "publish",
+    "content": "One-stop butcher shop, bakery, and full-service restaurant from the local owners of Food, Booze & Hiccups. Features craft cocktails and locally sourced ingredients.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2610 14th St, Gulfport, MS 39501",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 128,
+    "title": "Coastline Caribbean Restaurant",
+    "slug": "coastline-caribbean-restaurant",
+    "status": "publish",
+    "content": "Authentic Jamaican and Caribbean cuisine on Hewes Avenue, one of the top spots for Caribbean food on the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2220 Hewes Ave, Gulfport, MS 39507",
+    "phone": "(228) 265-8113",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 129,
+    "title": "The Dock Bar & Grill",
+    "slug": "the-dock-bar-grill",
+    "status": "publish",
+    "content": "Waterfront bar and grill with live music, cold drinks, and casual Gulf Coast fare overlooking Gulfport Small Craft Harbor.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "119 Courthouse Rd, Gulfport, MS 39507",
+    "phone": "(228) 314-0020",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 130,
+    "title": "The Shed Barbeque & Blues Joint",
+    "slug": "the-shed-barbeque-blues-joint",
+    "status": "publish",
+    "content": "Award-winning BBQ joint known for live blues music, smoked meats, and a funky juke-joint atmosphere. Featured on Food Network.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "7501 MS-57, Ocean Springs, MS 39565",
+    "phone": "(228) 875-9590",
+    "email": "",
+    "website": "https://www.theshedbbq.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 131,
+    "title": "Carter Green Steakhouse",
+    "slug": "carter-green-steakhouse",
+    "status": "publish",
+    "content": "Upscale steakhouse offering premium cuts, seafood, and an extensive wine list in an elegant setting.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2400 Beach Blvd, Gulfport, MS 39501",
+    "phone": "(228) 575-3569",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 132,
+    "title": "Waffle House - Gulfport",
+    "slug": "waffle-house-gulfport",
+    "status": "publish",
+    "content": "Classic American diner chain serving breakfast all day, hash browns, waffles, and comfort food 24/7.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15145 Crossroads Pkwy, Gulfport, MS 39503",
+    "phone": "(228) 831-1680",
+    "email": "",
+    "website": "https://www.wafflehouse.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 133,
+    "title": "McDonald's - Gulfport",
+    "slug": "mcdonalds-gulfport",
+    "status": "publish",
+    "content": "Fast food restaurant serving burgers, fries, breakfast items, and McCafe beverages.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1901 E Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 864-0115",
+    "email": "",
+    "website": "https://www.mcdonalds.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 134,
+    "title": "Chick-fil-A - Gulfport",
+    "slug": "chick-fil-a-gulfport",
+    "status": "publish",
+    "content": "Fast food chain specializing in chicken sandwiches, nuggets, salads, and breakfast items.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10445 Auto Mall Pkwy, Gulfport, MS 39503",
+    "phone": "(228) 539-3232",
+    "email": "",
+    "website": "https://www.chick-fil-a.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 135,
+    "title": "Cracker Barrel Old Country Store - Gulfport",
+    "slug": "cracker-barrel-old-country-store-gulfport",
+    "status": "publish",
+    "content": "Southern-style restaurant and gift shop chain offering country cooking, breakfast, and home-style meals.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10111 I-10 Service Rd, Gulfport, MS 39503",
+    "phone": "(228) 831-3903",
+    "email": "",
+    "website": "https://www.crackerbarrel.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 136,
+    "title": "Olive Garden - Gulfport",
+    "slug": "olive-garden-gulfport",
+    "status": "publish",
+    "content": "Italian-American restaurant chain offering pasta, breadsticks, soups, salads, and Italian entrees.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10480 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 831-5339",
+    "email": "",
+    "website": "https://www.olivegarden.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 137,
+    "title": "Red Lobster - Gulfport",
+    "slug": "red-lobster-gulfport",
+    "status": "publish",
+    "content": "Seafood restaurant chain featuring lobster, shrimp, crab, and fish dishes along with signature cheddar bay biscuits.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10389 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 896-8411",
+    "email": "",
+    "website": "https://www.redlobster.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 138,
+    "title": "Wendy's - Gulfport",
+    "slug": "wendys-gulfport",
+    "status": "publish",
+    "content": "Fast food chain known for fresh never-frozen beef hamburgers, chicken sandwiches, and Frosty desserts.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2600 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 863-5880",
+    "email": "",
+    "website": "https://www.wendys.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 139,
+    "title": "Popeyes Louisiana Kitchen - Gulfport",
+    "slug": "popeyes-louisiana-kitchen-gulfport",
+    "status": "publish",
+    "content": "Fast food chain specializing in Louisiana-style fried chicken, biscuits, and Cajun-seasoned sides.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2510 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 864-4034",
+    "email": "",
+    "website": "https://www.popeyes.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 140,
+    "title": "Walmart Supercenter - Gulfport",
+    "slug": "walmart-supercenter-gulfport",
+    "status": "publish",
+    "content": "Large retail chain offering groceries, electronics, clothing, home goods, and pharmacy services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10431 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 832-6098",
+    "email": "",
+    "website": "https://www.walmart.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 141,
+    "title": "Target - Gulfport",
+    "slug": "target-gulfport",
+    "status": "publish",
+    "content": "Retail department store offering clothing, electronics, home decor, groceries, and everyday essentials.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10510 Factory Shops Blvd, Gulfport, MS 39503",
+    "phone": "(228) 539-0133",
+    "email": "",
+    "website": "https://www.target.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 142,
+    "title": "Home Depot - Gulfport",
+    "slug": "home-depot-gulfport",
+    "status": "publish",
+    "content": "Home improvement retail chain offering building materials, tools, appliances, and garden supplies.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10451 Auto Mall Pkwy, Gulfport, MS 39503",
+    "phone": "(228) 832-9553",
+    "email": "",
+    "website": "https://www.homedepot.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 143,
+    "title": "Lowe's Home Improvement - Gulfport",
+    "slug": "lowes-home-improvement-gulfport",
+    "status": "publish",
+    "content": "Home improvement retail chain offering hardware, tools, appliances, building supplies, and garden products.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "9361 US-49, Gulfport, MS 39503",
+    "phone": "(228) 896-9080",
+    "email": "",
+    "website": "https://www.lowes.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 144,
+    "title": "Dollar General - Gulfport",
+    "slug": "dollar-general-gulfport",
+    "status": "publish",
+    "content": "Discount variety store offering household essentials, cleaning supplies, food, and personal care items at everyday low prices.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1809 Pass Rd, Gulfport, MS 39501",
+    "phone": "(228) 255-8441",
+    "email": "",
+    "website": "https://www.dollargeneral.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 145,
+    "title": "Tractor Supply Co - Gulfport",
+    "slug": "tractor-supply-co-gulfport",
+    "status": "publish",
+    "content": "Rural lifestyle retail store offering farm supplies, pet products, tools, clothing, and outdoor equipment.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15430 Creosote Rd, Gulfport, MS 39503",
+    "phone": "(228) 832-7710",
+    "email": "",
+    "website": "https://www.tractorsupply.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 146,
+    "title": "Best Buy - Gulfport",
+    "slug": "best-buy-gulfport",
+    "status": "publish",
+    "content": "Electronics retail chain offering computers, TVs, smartphones, appliances, and tech services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10480 Old Hwy 49 Ste 180, Gulfport, MS 39503",
+    "phone": "(228) 831-0340",
+    "email": "",
+    "website": "https://www.bestbuy.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 147,
+    "title": "Ross Dress for Less - Gulfport",
+    "slug": "ross-dress-for-less-gulfport",
+    "status": "publish",
+    "content": "Off-price department store offering brand-name clothing, shoes, home decor, and accessories at discount prices.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10400 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 539-3222",
+    "email": "",
+    "website": "https://www.rossstores.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 148,
+    "title": "Remedy Clinic",
+    "slug": "remedy-clinic",
+    "status": "publish",
+    "content": "Dental practice specializing in orofacial pain, oral medicine, and dental sleep medicine in Gulfport.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "370 Courthouse Rd Ste 103, Gulfport, MS 39507",
+    "phone": "(228) 432-6194",
+    "email": "",
+    "website": "https://www.myremedyclinic.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 149,
+    "title": "Gulf Coast Dental Care",
+    "slug": "gulf-coast-dental-care",
+    "status": "publish",
+    "content": "Full-service family dental practice offering preventive, restorative, and cosmetic dentistry services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15503 Oak Ln #300b, Gulfport, MS 39503",
+    "phone": "(228) 832-3231",
+    "email": "",
+    "website": "https://www.gcdentalcare.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 150,
+    "title": "Hillcrest Dental Group",
+    "slug": "hillcrest-dental-group",
+    "status": "publish",
+    "content": "Cosmetic and spa dentistry practice offering smile makeovers, teeth whitening, and family dental care.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1600 Broad Ave Ste 1, Gulfport, MS 39501",
+    "phone": "(228) 868-9833",
+    "email": "",
+    "website": "https://hillcrestdentalms.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 151,
+    "title": "KidMed",
+    "slug": "kidmed",
+    "status": "publish",
+    "content": "Pediatric urgent care clinic providing after-hours medical services for children in a kid-friendly environment.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1423 Magnolia St, Gulfport, MS 39507",
+    "phone": "(228) 547-0811",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 152,
+    "title": "Walgreens - Gulfport",
+    "slug": "walgreens-gulfport",
+    "status": "publish",
+    "content": "National pharmacy chain offering prescription medications, health products, personal care items, and photo services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2405 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 863-8741",
+    "email": "",
+    "website": "https://www.walgreens.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 153,
+    "title": "CVS Pharmacy - Gulfport",
+    "slug": "cvs-pharmacy-gulfport",
+    "status": "publish",
+    "content": "National pharmacy chain providing prescription medications, over-the-counter health products, and MinuteClinic services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15240 Community Rd, Gulfport, MS 39503",
+    "phone": "(228) 831-9232",
+    "email": "",
+    "website": "https://www.cvs.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 154,
+    "title": "Eddie's Tire and Automotive",
+    "slug": "eddies-tire-and-automotive",
+    "status": "publish",
+    "content": "Full-service auto repair shop offering tire sales, brake service, engine diagnostics, and automotive maintenance.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2300 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 864-9590",
+    "email": "",
+    "website": "https://www.eddiestireandautomotive.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 155,
+    "title": "Meineke Car Care Center - Gulfport",
+    "slug": "meineke-car-care-center-gulfport",
+    "status": "publish",
+    "content": "Auto care chain offering oil changes, brake service, exhaust repair, and general automotive maintenance with military discounts.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15224 Creosote Rd, Gulfport, MS 39503",
+    "phone": "(228) 539-0088",
+    "email": "",
+    "website": "https://www.meineke.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 156,
+    "title": "AutoZone - Gulfport",
+    "slug": "autozone-gulfport",
+    "status": "publish",
+    "content": "Auto parts retail chain offering automotive parts, accessories, and free services like battery testing and code reading.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2200 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 864-6575",
+    "email": "",
+    "website": "https://www.autozone.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 157,
+    "title": "O'Reilly Auto Parts - Gulfport",
+    "slug": "oreilly-auto-parts-gulfport",
+    "status": "publish",
+    "content": "Auto parts store offering automotive parts, tools, accessories, and free services including battery installation.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2519 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 864-9750",
+    "email": "",
+    "website": "https://www.oreillyauto.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 158,
+    "title": "Hancock Whitney Bank - Gulfport",
+    "slug": "hancock-whitney-bank-gulfport",
+    "status": "publish",
+    "content": "Community bank providing personal and business banking, mortgage lending, and wealth management services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2501 14th St, Gulfport, MS 39501",
+    "phone": "(228) 868-4351",
+    "email": "",
+    "website": "https://www.hancockwhitney.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 159,
+    "title": "Wells Fargo Bank - Gulfport",
+    "slug": "wells-fargo-bank-gulfport",
+    "status": "publish",
+    "content": "National bank offering personal banking, business banking, mortgage loans, and investment services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2300 14th St, Gulfport, MS 39501",
+    "phone": "(228) 864-6771",
+    "email": "",
+    "website": "https://www.wellsfargo.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 160,
+    "title": "Sunbelt Federal Credit Union",
+    "slug": "sunbelt-federal-credit-union",
+    "status": "publish",
+    "content": "Member-owned financial institution chartered in 1953, offering savings, loans, and financial services to Gulf Coast communities.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15301 Community Rd, Gulfport, MS 39503",
+    "phone": "(228) 896-3400",
+    "email": "",
+    "website": "https://www.sunbeltfcu.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 161,
+    "title": "Northwood Church",
+    "slug": "northwood-church",
+    "status": "publish",
+    "content": "Contemporary non-denominational church offering dynamic worship services, small groups, and community outreach.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "13800 Dedeaux Rd, Gulfport, MS 39503",
+    "phone": "(228) 832-5529",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 162,
+    "title": "Crosspoint Church Gulfport",
+    "slug": "crosspoint-church-gulfport",
+    "status": "publish",
+    "content": "Multi-campus church with engaging worship, biblical teaching, and active community ministries on the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15500 Lorraine Rd, Gulfport, MS 39503",
+    "phone": "(228) 328-0344",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 163,
+    "title": "Bible Baptist Church",
+    "slug": "bible-baptist-church",
+    "status": "publish",
+    "content": "Baptist church committed to knowing, growing, and showing the love of God through worship and community service.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2101 Switzer Rd, Gulfport, MS 39507",
+    "phone": "(228) 896-5818",
+    "email": "",
+    "website": "https://www.bbcgulfport.church/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 164,
+    "title": "Sport Clips Haircuts - Gulfport",
+    "slug": "sport-clips-haircuts-gulfport",
+    "status": "publish",
+    "content": "Men's haircut chain specializing in sports-themed haircuts and grooming services for men and boys.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10450 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 206-3001",
+    "email": "",
+    "website": "https://www.sportclips.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 165,
+    "title": "Great Clips - Gulfport",
+    "slug": "great-clips-gulfport",
+    "status": "publish",
+    "content": "Hair salon chain offering affordable haircuts, styling, and grooming services for the whole family.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "15182 Crossroads Pkwy Ste A, Gulfport, MS 39503",
+    "phone": "(228) 832-1290",
+    "email": "",
+    "website": "https://www.greatclips.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 166,
+    "title": "Terminix - Gulf Coast",
+    "slug": "terminix-gulf-coast",
+    "status": "publish",
+    "content": "Pest control company offering termite treatment, pest management, and home inspection services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "11107 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 831-1717",
+    "email": "",
+    "website": "https://www.terminix.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 167,
+    "title": "ServiceMaster Restore - Gulf Coast",
+    "slug": "servicemaster-restore-gulf-coast",
+    "status": "publish",
+    "content": "Disaster restoration company providing water damage cleanup, fire restoration, and mold remediation.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "14120 Dedeaux Rd, Gulfport, MS 39503",
+    "phone": "(228) 832-3773",
+    "email": "",
+    "website": "https://www.servicemaster.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 168,
+    "title": "Edward Jones - Gulfport",
+    "slug": "edward-jones-gulfport",
+    "status": "publish",
+    "content": "Financial advisory firm offering retirement planning, investment management, and education savings plans.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "14032 Dedeaux Rd Ste 1, Gulfport, MS 39503",
+    "phone": "(228) 832-6155",
+    "email": "",
+    "website": "https://www.edwardjones.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 169,
+    "title": "H&R Block - Gulfport",
+    "slug": "hr-block-gulfport",
+    "status": "publish",
+    "content": "Tax preparation service offering individual and small business tax filing, bookkeeping, and financial consulting.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10488 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 831-4355",
+    "email": "",
+    "website": "https://www.hrblock.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 170,
+    "title": "State Farm Insurance - Gulfport",
+    "slug": "state-farm-insurance-gulfport",
+    "status": "publish",
+    "content": "Insurance agency offering auto, home, life, and business insurance along with financial services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1601 E Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 863-3441",
+    "email": "",
+    "website": "https://www.statefarm.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Professional Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 171,
+    "title": "PetSmart - Gulfport",
+    "slug": "petsmart-gulfport",
+    "status": "publish",
+    "content": "Pet supply retail chain offering pet food, accessories, grooming services, and pet adoption events.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10462 Old Hwy 49, Gulfport, MS 39503",
+    "phone": "(228) 539-3355",
+    "email": "",
+    "website": "https://www.petsmart.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 172,
+    "title": "Hotel Vela",
+    "slug": "hotel-vela",
+    "status": "publish",
+    "content": "Boutique hotel crafted by 2025 James Beard Foundation semi-finalists featuring the Siren Social Club restaurant and bar.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2708 14th St, Gulfport, MS 39501",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 173,
+    "title": "Best Western Plus Gulfport",
+    "slug": "best-western-plus-gulfport",
+    "status": "publish",
+    "content": "National hotel chain offering comfortable rooms, complimentary breakfast, and a convenient location near Gulf Coast attractions.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "9475 US-49, Gulfport, MS 39503",
+    "phone": "(228) 864-0050",
+    "email": "",
+    "website": "https://www.bestwestern.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 174,
+    "title": "Hampton Inn Gulfport",
+    "slug": "hampton-inn-gulfport",
+    "status": "publish",
+    "content": "Hilton hotel brand offering clean comfortable rooms, free hot breakfast, and pool near Gulfport attractions.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "9445 US-49, Gulfport, MS 39503",
+    "phone": "(228) 868-3300",
+    "email": "",
+    "website": "https://www.hilton.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 175,
+    "title": "Waffle House - Biloxi",
+    "slug": "waffle-house-biloxi",
+    "status": "publish",
+    "content": "Classic American diner chain serving breakfast all day, hash browns, waffles, and comfort food 24/7.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2600 Beach Blvd, Biloxi, MS 39531",
+    "phone": "(228) 385-1199",
+    "email": "",
+    "website": "https://www.wafflehouse.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 176,
+    "title": "McDonald's - Biloxi",
+    "slug": "mcdonalds-biloxi",
+    "status": "publish",
+    "content": "Fast food restaurant serving burgers, fries, breakfast items, and McCafe beverages.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1794 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 432-5800",
+    "email": "",
+    "website": "https://www.mcdonalds.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 177,
+    "title": "Sonic Drive-In - Biloxi",
+    "slug": "sonic-drive-in-biloxi",
+    "status": "publish",
+    "content": "Drive-in fast food chain offering burgers, hot dogs, shakes, slushes, and carhop service.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1920 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 385-3399",
+    "email": "",
+    "website": "https://www.sonicdrivein.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 178,
+    "title": "Wendy's - Biloxi",
+    "slug": "wendys-biloxi",
+    "status": "publish",
+    "content": "Fast food chain known for fresh never-frozen beef hamburgers, chicken sandwiches, and Frosty desserts.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "841 Beach Blvd, Biloxi, MS 39530",
+    "phone": "(228) 374-1020",
+    "email": "",
+    "website": "https://www.wendys.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 179,
+    "title": "Chili's Grill & Bar - Biloxi",
+    "slug": "chilis-grill-bar-biloxi",
+    "status": "publish",
+    "content": "Casual dining chain offering Tex-Mex and American fare including burgers, ribs, fajitas, and margaritas.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2600 Beach Blvd, Biloxi, MS 39531",
+    "phone": "(228) 392-9300",
+    "email": "",
+    "website": "https://www.chilis.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 180,
+    "title": "Lil' Ray's Po-Boys & Seafood",
+    "slug": "lil-rays-po-boys-seafood",
+    "status": "publish",
+    "content": "Local po'boy shop serving fresh Gulf seafood po'boys, platters, and Southern comfort food favorites.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "125 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 374-5075",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 181,
+    "title": "Grant's for Her",
+    "slug": "grants-for-her",
+    "status": "publish",
+    "content": "Downtown Biloxi boutique offering women's clothing, accessories, and gifts in the historic Main Street district.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "147 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 207-3447",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 182,
+    "title": "The Threaded Cork",
+    "slug": "the-threaded-cork",
+    "status": "publish",
+    "content": "Unique downtown Biloxi shop combining a wine bar with a sewing and craft supply store.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "946 Howard Ave, Biloxi, MS 39530",
+    "phone": "(228) 374-2333",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 183,
+    "title": "Peace by Piece Quilts",
+    "slug": "peace-by-piece-quilts",
+    "status": "publish",
+    "content": "Specialty quilt shop offering fabrics, patterns, notions, and quilting classes in downtown Biloxi.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "148 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 432-4520",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 184,
+    "title": "CVS Pharmacy - Biloxi",
+    "slug": "cvs-pharmacy-biloxi",
+    "status": "publish",
+    "content": "National pharmacy chain providing prescription medications, health products, and MinuteClinic walk-in medical services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1721 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 388-6022",
+    "email": "",
+    "website": "https://www.cvs.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 185,
+    "title": "Walgreens - Biloxi",
+    "slug": "walgreens-biloxi",
+    "status": "publish",
+    "content": "National pharmacy chain offering prescription medications, health products, personal care items, and photo services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1751 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 385-0555",
+    "email": "",
+    "website": "https://www.walgreens.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 186,
+    "title": "AutoZone - Biloxi",
+    "slug": "autozone-biloxi",
+    "status": "publish",
+    "content": "Auto parts retail chain offering automotive parts, accessories, and free services like battery testing.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "1630 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 392-5144",
+    "email": "",
+    "website": "https://www.autozone.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 187,
+    "title": "Calvary Gulf Coast",
+    "slug": "calvary-gulf-coast",
+    "status": "publish",
+    "content": "Christ-centered church in Biloxi offering dynamic worship services, community groups, and outreach ministries.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "100 Belmede Dr, Biloxi, MS 39531",
+    "phone": "(228) 392-4774",
+    "email": "",
+    "website": "https://calvarygulfcoast.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 188,
+    "title": "New Life Family Church",
+    "slug": "new-life-family-church",
+    "status": "publish",
+    "content": "Welcoming family of believers offering worship services, youth programs, and community outreach in Biloxi.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "190 Beauvoir Rd, Biloxi, MS 39531",
+    "phone": "(228) 388-1988",
+    "email": "",
+    "website": "https://www.nlfc.tv/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 189,
+    "title": "Navy Federal Credit Union - Biloxi",
+    "slug": "navy-federal-credit-union-biloxi",
+    "status": "publish",
+    "content": "Credit union serving armed forces, DoD, veterans, and their families with banking, loans, and financial services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2350 Pass Rd, Biloxi, MS 39531",
+    "phone": "(888) 842-6328",
+    "email": "",
+    "website": "https://www.navyfederal.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 190,
+    "title": "The Citizens Bank - Biloxi",
+    "slug": "the-citizens-bank-biloxi",
+    "status": "publish",
+    "content": "Community bank providing personal and business banking services, loans, and financial planning.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "164 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 435-0067",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 191,
+    "title": "Walmart Supercenter - Biloxi",
+    "slug": "walmart-supercenter-biloxi",
+    "status": "publish",
+    "content": "Large retail chain offering groceries, electronics, clothing, home goods, and pharmacy services.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2681 Beach Blvd, Biloxi, MS 39531",
+    "phone": "(228) 388-9988",
+    "email": "",
+    "website": "https://www.walmart.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 192,
+    "title": "Dewy Dew Bugz",
+    "slug": "dewy-dew-bugz",
+    "status": "publish",
+    "content": "Cajun and Creole restaurant serving crawfish, seafood boils, and classic Louisiana-style cuisine.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10676 D'Iberville Blvd, D'Iberville, MS 39540",
+    "phone": "(228) 396-6099",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 193,
+    "title": "Kien Giang",
+    "slug": "kien-giang",
+    "status": "publish",
+    "content": "Authentic Vietnamese restaurant offering pho, banh mi, spring rolls, and traditional Vietnamese dishes.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10598 D'Iberville Blvd, D'Iberville, MS 39540",
+    "phone": "(228) 392-2228",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 194,
+    "title": "The Grind Coffee and Nosh",
+    "slug": "the-grind-coffee-and-nosh",
+    "status": "publish",
+    "content": "Local coffee shop and eatery serving specialty coffee drinks, breakfast items, and light lunch fare.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3940 Promenade Pkwy, D'Iberville, MS 39540",
+    "phone": "(228) 354-8003",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 195,
+    "title": "Taranto's Crawfish House",
+    "slug": "tarantos-crawfish-house",
+    "status": "publish",
+    "content": "Crawfish and seafood restaurant specializing in boiled crawfish, shrimp, crab legs, and Cajun seafood platters.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "11006 Lamey Bridge Rd, D'Iberville, MS 39540",
+    "phone": "(228) 396-5050",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 196,
+    "title": "Walk-On's Sports Bistreaux - D'Iberville",
+    "slug": "walk-ons-sports-bistreaux-diberville",
+    "status": "publish",
+    "content": "Sports bar and restaurant chain serving Louisiana-inspired dishes, craft beers, and game-day favorites.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3970 Promenade Pkwy, D'Iberville, MS 39540",
+    "phone": "(228) 354-8045",
+    "email": "",
+    "website": "https://www.walk-ons.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 197,
+    "title": "Chick-fil-A - D'Iberville",
+    "slug": "chick-fil-a-diberville",
+    "status": "publish",
+    "content": "Fast food chain specializing in chicken sandwiches, nuggets, salads, and breakfast items.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3930 Promenade Pkwy, D'Iberville, MS 39540",
+    "phone": "(228) 396-5010",
+    "email": "",
+    "website": "https://www.chick-fil-a.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 198,
+    "title": "Sam's Club - D'Iberville",
+    "slug": "sams-club-diberville",
+    "status": "publish",
+    "content": "Membership warehouse club offering bulk groceries, electronics, home goods, and business supplies.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3600 Sangani Blvd, D'Iberville, MS 39540",
+    "phone": "(228) 396-5013",
+    "email": "",
+    "website": "https://www.samsclub.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 199,
+    "title": "Academy Sports + Outdoors - D'Iberville",
+    "slug": "academy-sports-outdoors-diberville",
+    "status": "publish",
+    "content": "Sports and outdoor recreation retail chain offering sporting goods, clothing, footwear, and outdoor gear.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3700 Sangani Blvd, D'Iberville, MS 39540",
+    "phone": "(228) 396-3500",
+    "email": "",
+    "website": "https://www.academy.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 200,
+    "title": "Dollar Tree - D'Iberville",
+    "slug": "dollar-tree-diberville",
+    "status": "publish",
+    "content": "Discount variety store where everything is priced at $1.25 or less, offering household items, party supplies, and snacks.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "3890 Promenade Pkwy, D'Iberville, MS 39540",
+    "phone": "(228) 396-4177",
+    "email": "",
+    "website": "https://www.dollartree.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 201,
+    "title": "Parrish's Restaurant & Lounge",
+    "slug": "parrishs-restaurant-lounge",
+    "status": "publish",
+    "content": "Harbor-front restaurant offering seafood, steaks, and cocktails with stunning views of the Mississippi Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "201 Jeff Davis Ave, Long Beach, MS 39560",
+    "phone": "(228) 206-3850",
+    "email": "",
+    "website": "https://www.parrishslbms.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 202,
+    "title": "Domenico's",
+    "slug": "domenicos",
+    "status": "publish",
+    "content": "Family-owned Italian restaurant since 1954, known for handmade pizzas, the old-fashioned way, and creamy garlic salad dressing.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "208 E Railroad St, Long Beach, MS 39560",
+    "phone": "(228) 868-2244",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 203,
+    "title": "Subway - Long Beach",
+    "slug": "subway-long-beach",
+    "status": "publish",
+    "content": "Sandwich chain offering made-to-order subs, wraps, and salads with fresh ingredients.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "105 E Railroad St, Long Beach, MS 39560",
+    "phone": "(228) 864-1010",
+    "email": "",
+    "website": "https://www.subway.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 204,
+    "title": "Dollar General - Long Beach",
+    "slug": "dollar-general-long-beach",
+    "status": "publish",
+    "content": "Discount variety store offering household essentials, cleaning supplies, food, and personal care items.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "221 E Beach Blvd, Long Beach, MS 39560",
+    "phone": "(228) 285-3411",
+    "email": "",
+    "website": "https://www.dollargeneral.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 205,
+    "title": "First Baptist Church of Long Beach",
+    "slug": "first-baptist-church-of-long-beach",
+    "status": "publish",
+    "content": "Baptist church serving the Long Beach community with worship services, Bible study, and fellowship programs.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "304 E 2nd St, Long Beach, MS 39560",
+    "phone": "(228) 863-2164",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 206,
+    "title": "4 R's Restaurant",
+    "slug": "4-rs-restaurant",
+    "status": "publish",
+    "content": "Family restaurant in Pass Christian serving breakfast, lunch, and Southern comfort food favorites.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "121 Davis Ave, Pass Christian, MS 39571",
+    "phone": "(228) 452-9339",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 207,
+    "title": "Kimball's",
+    "slug": "kimballs",
+    "status": "publish",
+    "content": "Coastal restaurant offering fresh Gulf seafood, steaks, and craft cocktails in a relaxed Pass Christian setting.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "111 W 2nd St, Pass Christian, MS 39571",
+    "phone": "(228) 222-4950",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 208,
+    "title": "Shaggy's Pass Christian",
+    "slug": "shaggys-pass-christian",
+    "status": "publish",
+    "content": "Beachfront casual restaurant and bar offering Gulf seafood, burgers, and tropical drinks with water views.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "213 E Scenic Dr, Pass Christian, MS 39571",
+    "phone": "(228) 452-9119",
+    "email": "",
+    "website": "https://www.shaggys.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 209,
+    "title": "Fill Up At Billups",
+    "slug": "fill-up-at-billups",
+    "status": "publish",
+    "content": "Unique breakfast restaurant housed in a restored gas station, serving creative brunch fare and specialty coffees.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "310 Davis Ave, Pass Christian, MS 39571",
+    "phone": "(228) 222-4455",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 210,
+    "title": "The Pink Octopus Frozen Yogurt",
+    "slug": "the-pink-octopus-frozen-yogurt",
+    "status": "publish",
+    "content": "Self-serve frozen yogurt shop with a variety of flavors and toppings in downtown Pass Christian.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "113 W 2nd St, Pass Christian, MS 39571",
+    "phone": "(228) 452-3232",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 211,
+    "title": "Art Alley in the Pass",
+    "slug": "art-alley-in-the-pass",
+    "status": "publish",
+    "content": "Art gallery and creative space showcasing local artists, paintings, pottery, and handcrafted items.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "126 W 2nd St, Pass Christian, MS 39571",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 212,
+    "title": "Amy Wood Properties",
+    "slug": "amy-wood-properties",
+    "status": "publish",
+    "content": "Local real estate agency specializing in residential properties, waterfront homes, and land sales in Pass Christian.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "104 W 2nd St, Pass Christian, MS 39571",
+    "phone": "(228) 452-3435",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 213,
+    "title": "Dollar General - Saucier",
+    "slug": "dollar-general-saucier",
+    "status": "publish",
+    "content": "Discount variety store offering household essentials, cleaning supplies, food, and personal care items.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "24301 MS-67, Saucier, MS 39574",
+    "phone": "",
+    "email": "",
+    "website": "https://www.dollargeneral.com/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Saucier"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 214,
+    "title": "First Baptist Church of Saucier",
+    "slug": "first-baptist-church-of-saucier",
+    "status": "publish",
+    "content": "Baptist church serving the Saucier community with worship services, Bible study groups, and fellowship.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "23211 Railroad Ave, Saucier, MS 39574",
+    "phone": "(228) 539-3200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Saucier"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 215,
+    "title": "Habitat for Humanity Mississippi Gulf Coast",
+    "slug": "habitat-for-humanity-mississippi-gulf-coast",
+    "status": "publish",
+    "content": "Nonprofit organization building affordable homes for families in need across the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "10274 Three Rivers Rd, Gulfport, MS 39503",
+    "phone": "(228) 678-9100",
+    "email": "",
+    "website": "https://www.hfhmgc.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 216,
+    "title": "American Red Cross - Gulf Coast",
+    "slug": "american-red-cross-gulf-coast",
+    "status": "publish",
+    "content": "Humanitarian organization providing disaster relief, blood services, health and safety training.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "835 Broad Ave, Gulfport, MS 39501",
+    "phone": "(228) 896-4511",
+    "email": "",
+    "website": "https://www.redcross.org/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 217,
+    "title": "Seashore Mission",
+    "slug": "seashore-mission",
+    "status": "publish",
+    "content": "Nonprofit organization providing emergency shelter, meals, and social services to those in need on the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "850 Division St, Biloxi, MS 39530",
+    "phone": "(228) 436-1100",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 218,
+    "title": "Gulfport Sportsplex",
+    "slug": "gulfport-sportsplex",
+    "status": "publish",
+    "content": "Multi-sport athletic facility offering baseball, softball, soccer, and football fields plus walking trails.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "13101 Kelly Ave, Gulfport, MS 39503",
+    "phone": "(228) 539-6270",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 219,
+    "title": "President Broadwater Resort",
+    "slug": "president-broadwater-resort",
+    "status": "publish",
+    "content": "Historic resort area along Biloxi's beachfront offering marina, golf, and waterfront recreation.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "2110 Beach Blvd, Biloxi, MS 39531",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 220,
+    "title": "Jacked Up Coffee Bar",
+    "slug": "jacked-up-coffee-bar",
+    "status": "publish",
+    "content": "Coffee bar and late-night hangout in downtown Biloxi offering specialty coffees, cocktails, and live entertainment.",
+    "excerpt": "",
+    "post_date": "2026-03-11 00:00:00",
+    "address": "139 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 207-2468",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 221,
+    "title": "Salute Italian & Seafood Restaurant",
+    "slug": "salute-italian-seafood-restaurant",
+    "status": "publish",
+    "content": "Fine dining Italian and seafood restaurant under majestic oak trees with Gulf of Mexico views.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "3101 W Beach Blvd, Gulfport, MS 39501",
+    "phone": "(228) 864-2500",
+    "email": "",
+    "website": "https://www.saluteitalian.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 222,
+    "title": "Captain Al's Steak & Seafood",
+    "slug": "captain-als-steak-seafood",
+    "status": "publish",
+    "content": "Nautical-themed restaurant specializing in fresh Gulf seafood, steaks, and Louisiana-style dishes.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2712 13th St, Gulfport, MS 39501",
+    "phone": "(228) 214-5500",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 223,
+    "title": "Mama's Seafood & Grill",
+    "slug": "mamas-seafood-grill",
+    "status": "publish",
+    "content": "Family-owned Gulf Coast seafood restaurant serving fresh catches and Southern comfort food.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2624 13th St, Gulfport, MS 39501",
+    "phone": "(228) 863-5600",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 224,
+    "title": "Lil' Ray's Uptown",
+    "slug": "lil-rays-uptown",
+    "status": "publish",
+    "content": "Beloved po'boy and seafood spot serving authentic Gulf Coast po'boys, gumbo, and fried seafood.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "307 25th Ave, Gulfport, MS 39501",
+    "phone": "(228) 896-9601",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 225,
+    "title": "El Aguila Restaurant",
+    "slug": "el-aguila-restaurant",
+    "status": "publish",
+    "content": "Authentic Mexican cuisine with margaritas and traditional dishes in a family-friendly setting.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1605 E Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 896-5800",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 226,
+    "title": "Kien Giang Vietnamese Restaurant",
+    "slug": "kien-giang-vietnamese-restaurant",
+    "status": "publish",
+    "content": "Authentic Vietnamese cuisine including pho, banh mi, and fresh spring rolls.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2113 25th Ave, Gulfport, MS 39501",
+    "phone": "(228) 863-4088",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 227,
+    "title": "Rusty Pelican Restaurant",
+    "slug": "rusty-pelican-restaurant",
+    "status": "publish",
+    "content": "Casual waterfront dining with Gulf seafood, burgers, and cold drinks on the beach.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2201 E Beach Blvd, Gulfport, MS 39501",
+    "phone": "(228) 822-1400",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 228,
+    "title": "Dominick's Po-Boys & Italian",
+    "slug": "dominicks-po-boys-italian",
+    "status": "publish",
+    "content": "Classic Gulf Coast po'boys and Italian fare served fresh daily.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1523 25th Ave, Gulfport, MS 39501",
+    "phone": "(228) 868-2898",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 229,
+    "title": "Graystone Automotive",
+    "slug": "graystone-automotive",
+    "status": "publish",
+    "content": "One-stop shop for auto repair from routine maintenance to electrical and A/C repairs.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39501",
+    "phone": "(228) 832-1300",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 230,
+    "title": "BC Mechanics",
+    "slug": "bc-mechanics",
+    "status": "publish",
+    "content": "Trusted local mechanic providing quality auto repair and diagnostics.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39501",
+    "phone": "(228) 297-6300",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 231,
+    "title": "Chuck's Automotive",
+    "slug": "chucks-automotive",
+    "status": "publish",
+    "content": "Family-owned auto repair specializing in domestic and foreign vehicles.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39501",
+    "phone": "(228) 896-2100",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 232,
+    "title": "Walter Guillot DMD",
+    "slug": "walter-guillot-dmd",
+    "status": "publish",
+    "content": "General and cosmetic dentist providing personalized quality dental care.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 896-0011",
+    "email": "",
+    "website": "https://gulfcoastdentist.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 233,
+    "title": "Wheeler Family Dentistry",
+    "slug": "wheeler-family-dentistry",
+    "status": "publish",
+    "content": "Over 35 years of exceptional dental care for the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 864-1288",
+    "email": "",
+    "website": "https://wheelerdentist.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 234,
+    "title": "Gulf Coast Periodontics & Implants",
+    "slug": "gulf-coast-periodontics-implants",
+    "status": "publish",
+    "content": "Specialized periodontal and implant dentistry including bone grafting and dental implants.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "11280 E Taylor Rd Ste B, Gulfport, MS 39503",
+    "phone": "(228) 868-9615",
+    "email": "",
+    "website": "https://www.gcperio.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 235,
+    "title": "Pure Smiles Dental - Gulfport",
+    "slug": "pure-smiles-dental-gulfport",
+    "status": "publish",
+    "content": "Quality family dentistry in a comfortable environment near Highway 49.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "15382-A St Charles St, Gulfport, MS 39503",
+    "phone": "(228) 832-5300",
+    "email": "",
+    "website": "https://gulfportms.dentist",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 236,
+    "title": "McIntyre Dentures and Extractions",
+    "slug": "mcintyre-dentures-and-extractions",
+    "status": "publish",
+    "content": "Affordable dentures and tooth extractions with over 26 years of compassionate care.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 832-9292",
+    "email": "",
+    "website": "https://www.mcdentures.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 237,
+    "title": "First Presbyterian Church of Gulfport",
+    "slug": "first-presbyterian-church-of-gulfport",
+    "status": "publish",
+    "content": "Historic Presbyterian church offering Sunday worship and Wednesday fellowship.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "10885 Oneal Rd, Gulfport, MS 39503",
+    "phone": "(228) 831-5353",
+    "email": "",
+    "website": "https://fpcgulfport.org",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 238,
+    "title": "Bible Baptist Church - Gulfport",
+    "slug": "bible-baptist-church-gulfport",
+    "status": "publish",
+    "content": "Sunday LifeGroups at 9 AM and worship at 10:30 AM with Wednesday Bible Study.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "12200 Dedeaux Rd, Gulfport, MS 39503",
+    "phone": "(228) 831-5577",
+    "email": "",
+    "website": "https://www.bbcgulfport.church",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 239,
+    "title": "Saint James Catholic Church",
+    "slug": "saint-james-catholic-church",
+    "status": "publish",
+    "content": "Catholic parish fostering eucharistic discipleship and community hospitality.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39507",
+    "phone": "(228) 863-1610",
+    "email": "",
+    "website": "https://www.saintjamescc.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 240,
+    "title": "Harvest Church Gulfport",
+    "slug": "harvest-church-gulfport",
+    "status": "publish",
+    "content": "Contemporary worship community led by Pastor Bryan Atwood.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 831-4420",
+    "email": "",
+    "website": "https://www.harvestchurchgulfport.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 241,
+    "title": "St. Joseph Catholic Church Gulfport",
+    "slug": "st-joseph-catholic-church-gulfport",
+    "status": "publish",
+    "content": "Catholic parish serving the Gulfport community with Mass and sacraments.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39501",
+    "phone": "(228) 868-2821",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 242,
+    "title": "LaBella's Salon",
+    "slug": "labellas-salon",
+    "status": "publish",
+    "content": "Premier luxury hair care with expert styling, precision barbering, and natural hair services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "16094 Landon Rd, Gulfport, MS 39503",
+    "phone": "(228) 831-0100",
+    "email": "",
+    "website": "https://www.labellassalonandbarbershop.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 243,
+    "title": "Chuck Kelly Salon & Spa",
+    "slug": "chuck-kelly-salon-spa",
+    "status": "publish",
+    "content": "Award-winning luxury hair, color, and spa services recognized as the Coast's favorite.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39507",
+    "phone": "(228) 868-4247",
+    "email": "",
+    "website": "https://chuckkellysalonspa.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 244,
+    "title": "Hair R Us Beauty & Nail Salon",
+    "slug": "hair-r-us-beauty-nail-salon",
+    "status": "publish",
+    "content": "Full-service salon offering braids, color, cuts, eyebrows, eyelashes, and more.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "15037 Dedeaux Rd, Gulfport, MS 39503",
+    "phone": "(228) 234-4270",
+    "email": "",
+    "website": "http://www.mshairrus.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 245,
+    "title": "Creative Cuts Hair Salon",
+    "slug": "creative-cuts-hair-salon",
+    "status": "publish",
+    "content": "Friendly salon in the Hardy Court Shopping Center serving Gulfport and Biloxi.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "59 Pass Rd, Gulfport, MS 39507",
+    "phone": "(228) 863-7139",
+    "email": "",
+    "website": "https://creativecutshair.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 246,
+    "title": "One Call Paul Barber & Beauty",
+    "slug": "one-call-paul-barber-beauty",
+    "status": "publish",
+    "content": "By-appointment barber and beauty salon with 5-star reviews.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2103 25th Ave, Gulfport, MS 39501",
+    "phone": "(228) 697-1174",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 247,
+    "title": "Owen & Co. Real Estate",
+    "slug": "owen-co-real-estate",
+    "status": "publish",
+    "content": "Serving the Mississippi Gulf Coast since 1945 with commercial and residential expertise.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39507",
+    "phone": "(228) 822-9870",
+    "email": "",
+    "website": "https://owenandco.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 248,
+    "title": "Century 21 Busch Realty Group",
+    "slug": "century-21-busch-realty-group",
+    "status": "publish",
+    "content": "Full-service real estate company specializing in buying, selling, investing, and leasing.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 832-4621",
+    "email": "",
+    "website": "https://buschrealty-gulfcoast.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 249,
+    "title": "Coastal Realty Group",
+    "slug": "coastal-realty-group",
+    "status": "publish",
+    "content": "Local real estate experts providing Gulf Coast home listings and buyer services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 831-0071",
+    "email": "",
+    "website": "https://www.searchgulfporthomes.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Real Estate"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 250,
+    "title": "SouthGroup Insurance - Gulfport",
+    "slug": "southgroup-insurance-gulfport",
+    "status": "publish",
+    "content": "Full-service insurance agency providing home, auto, life, and business coverage.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 385-1177",
+    "email": "",
+    "website": "https://southgroup.net",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 251,
+    "title": "McMurphy Insurance",
+    "slug": "mcmurphy-insurance",
+    "status": "publish",
+    "content": "Local insurance agency providing personalized coverage for families and businesses.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39507",
+    "phone": "(228) 864-7555",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 252,
+    "title": "Mattina Insurance Agency",
+    "slug": "mattina-insurance-agency",
+    "status": "publish",
+    "content": "Trusted local insurance provider offering comprehensive personal and commercial policies.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39507",
+    "phone": "(228) 864-3700",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 253,
+    "title": "Entrekin Insurance Agency",
+    "slug": "entrekin-insurance-agency",
+    "status": "publish",
+    "content": "Independent insurance agency with competitive rates and personalized service.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 832-1555",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 254,
+    "title": "Ball Heating, Cooling, Plumbing & Electrical",
+    "slug": "ball-heating-cooling-plumbing-electrical",
+    "status": "publish",
+    "content": "24-hour emergency HVAC, plumbing, and electrical services backed by quality guarantees.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "8332 W Oaklawn Rd, Biloxi, MS 39532",
+    "phone": "(228) 356-0022",
+    "email": "",
+    "website": "https://www.callballthatsall.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 255,
+    "title": "AirSouth Cooling and Heating",
+    "slug": "airsouth-cooling-and-heating",
+    "status": "publish",
+    "content": "BBB-accredited HVAC contractor offering free consultations and expert electrical services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 831-4401",
+    "email": "",
+    "website": "https://www.airsouthnow.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 256,
+    "title": "Horton Heating, Air & Electrical",
+    "slug": "horton-heating-air-electrical",
+    "status": "publish",
+    "content": "Trusted HVAC and electrical services including installation, repair, and 24/7 support.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 832-4402",
+    "email": "",
+    "website": "https://www.callhortonthatswho.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 257,
+    "title": "Comforts on the Coast",
+    "slug": "comforts-on-the-coast",
+    "status": "publish",
+    "content": "HVAC and plumbing services with over 40 years of experience and same-day service.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 831-3000",
+    "email": "",
+    "website": "https://www.comfortsonthecoast.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Home Services & Contractors"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 258,
+    "title": "Northwood Hills Animal Hospital",
+    "slug": "northwood-hills-animal-hospital",
+    "status": "publish",
+    "content": "Full-service veterinary hospital providing comprehensive care including grooming and boarding.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "12012 Mobile Ave, Gulfport, MS 39503",
+    "phone": "(228) 832-0125",
+    "email": "",
+    "website": "https://northwoodhillsah.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 259,
+    "title": "Animal Hospital of Orange Grove",
+    "slug": "animal-hospital-of-orange-grove",
+    "status": "publish",
+    "content": "Full-service veterinary hospital founded in 1995 providing gentle, optimal pet care.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 832-8380",
+    "email": "",
+    "website": "https://www.anhospog.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 260,
+    "title": "Bed, Breakfast and Beyond",
+    "slug": "bed-breakfast-and-beyond",
+    "status": "publish",
+    "content": "Historic 1941 bed-and-breakfast with Southern hospitality, three meals daily, and cozy rooms.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39507",
+    "phone": "(228) 297-3025",
+    "email": "",
+    "website": "https://www.bedbreakfastandbeyondms.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 261,
+    "title": "Sleep Inn & Suites Gulfport",
+    "slug": "sleep-inn-suites-gulfport",
+    "status": "publish",
+    "content": "Affordable hotel with updated design, free WiFi and breakfast near beaches and airport.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39503",
+    "phone": "(228) 539-2050",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Accommodations"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 262,
+    "title": "Gulf Coast Center for Nonviolence",
+    "slug": "gulf-coast-center-for-nonviolence",
+    "status": "publish",
+    "content": "Nonprofit providing support services for survivors of domestic violence and sexual assault.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Gulfport, MS 39501",
+    "phone": "(228) 436-3809",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 263,
+    "title": "Catch 110 Biloxi",
+    "slug": "catch-110-biloxi",
+    "status": "publish",
+    "content": "Gulf Coast seafood with locally sourced ingredients, craft cocktails, and waterfront dining.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "110 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 818-3961",
+    "email": "",
+    "website": "https://catch110.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 264,
+    "title": "The Ole Biloxi Fillin Station",
+    "slug": "the-ole-biloxi-fillin-station",
+    "status": "publish",
+    "content": "Classic American diner in a converted gas station serving burgers, po'boys, and cold beer.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "692 Howard Ave, Biloxi, MS 39530",
+    "phone": "(228) 435-2522",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 265,
+    "title": "Adventures Pub & Spirits",
+    "slug": "adventures-pub-spirits",
+    "status": "publish",
+    "content": "Downtown Biloxi pub serving craft cocktails, beer, and elevated pub fare.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "132 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 207-6364",
+    "email": "",
+    "website": "https://adventurespub.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 266,
+    "title": "Burger Burger Biloxi",
+    "slug": "burger-burger-biloxi",
+    "status": "publish",
+    "content": "Gourmet burgers with creative toppings and craft beer in a casual setting.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1039 Howard Ave, Biloxi, MS 39530",
+    "phone": "(228) 432-5183",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 267,
+    "title": "Tasty Tails Seafood House",
+    "slug": "tasty-tails-seafood-house",
+    "status": "publish",
+    "content": "Cajun-style boiled seafood and Southern specialties.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "188 Reynoir St Suite D, Biloxi, MS 39530",
+    "phone": "(228) 435-4140",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 268,
+    "title": "Le Cafe Beignet",
+    "slug": "le-cafe-beignet",
+    "status": "publish",
+    "content": "Authentic New Orleans-style beignets, coffee, and pastries.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "124 Lameuse St, Biloxi, MS 39530",
+    "phone": "(228) 207-0371",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 269,
+    "title": "El Lupillo Mexican Restaurant",
+    "slug": "el-lupillo-mexican-restaurant",
+    "status": "publish",
+    "content": "Authentic Mexican cuisine with fresh ingredients and family recipes.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1711 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 207-0357",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 270,
+    "title": "Joe's Garage Biloxi",
+    "slug": "joes-garage-biloxi",
+    "status": "publish",
+    "content": "Full-service auto repair with honest pricing and quality workmanship.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1811 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 385-8455",
+    "email": "",
+    "website": "https://joesgaragebiloxi.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 271,
+    "title": "David Poulos Tire & Auto Center",
+    "slug": "david-poulos-tire-auto-center",
+    "status": "publish",
+    "content": "Family-owned tire and auto repair serving the Gulf Coast community.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2426 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 388-5649",
+    "email": "",
+    "website": "https://davidpoulostireandauto.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 272,
+    "title": "Worrell Automotive Services",
+    "slug": "worrell-automotive-services",
+    "status": "publish",
+    "content": "Trusted local auto repair with comprehensive diagnostic and maintenance services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "910 Cedar Lake Rd, Biloxi, MS 39532",
+    "phone": "(228) 392-1401",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 273,
+    "title": "Gulf Coast Oral & Facial Surgery",
+    "slug": "gulf-coast-oral-facial-surgery",
+    "status": "publish",
+    "content": "Specialized oral and facial surgery including dental implants and wisdom teeth removal.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1760 Medical Park Dr, Biloxi, MS 39532",
+    "phone": "(228) 388-5925",
+    "email": "",
+    "website": "https://gcofs.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 274,
+    "title": "Pure Smiles Dental - Biloxi",
+    "slug": "pure-smiles-dental-biloxi",
+    "status": "publish",
+    "content": "Comprehensive family dentistry with comfortable, modern care.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1764 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 374-5334",
+    "email": "",
+    "website": "https://biloxims.dentist",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 275,
+    "title": "Allen Family Dentistry",
+    "slug": "allen-family-dentistry",
+    "status": "publish",
+    "content": "Family dental practice providing general and cosmetic dentistry services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Biloxi, MS 39532",
+    "phone": "(228) 385-3038",
+    "email": "",
+    "website": "https://allenfamdentistry.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 276,
+    "title": "Back Bay Family Dentistry",
+    "slug": "back-bay-family-dentistry",
+    "status": "publish",
+    "content": "Family-oriented dental care with modern techniques and comfortable environment.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Biloxi, MS 39532",
+    "phone": "(228) 220-2117",
+    "email": "",
+    "website": "https://backbayfamilydentistry.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 277,
+    "title": "Randy Barras Salon Biloxi",
+    "slug": "randy-barras-salon-biloxi",
+    "status": "publish",
+    "content": "Upscale salon offering expert hair styling and color services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "122 Fayard St, Biloxi, MS 39530",
+    "phone": "(228) 374-5700",
+    "email": "",
+    "website": "https://randybarras.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 278,
+    "title": "Tyrone's Barber & Beauty Shop",
+    "slug": "tyrones-barber-beauty-shop",
+    "status": "publish",
+    "content": "Downtown Biloxi barber and beauty shop with classic and modern styles.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "281 Main St, Biloxi, MS 39530",
+    "phone": "(228) 374-3628",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 279,
+    "title": "Keesler Federal Credit Union - Biloxi",
+    "slug": "keesler-federal-credit-union-biloxi",
+    "status": "publish",
+    "content": "Locally headquartered credit union serving the Gulf Coast military and civilian community.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2602 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 385-5500",
+    "email": "",
+    "website": "https://kfcu.org",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 280,
+    "title": "Poulos Insurance Agency",
+    "slug": "poulos-insurance-agency",
+    "status": "publish",
+    "content": "Local independent insurance agency providing personal and commercial coverage.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "833 Jackson St, Biloxi, MS 39530",
+    "phone": "(228) 374-5477",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Financial Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 281,
+    "title": "Cedar Lake Church",
+    "slug": "cedar-lake-church",
+    "status": "publish",
+    "content": "Community-focused church serving Biloxi with inspiring worship and fellowship.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "11555 Cedar Lake Rd, Biloxi, MS 39532",
+    "phone": "(228) 392-6279",
+    "email": "",
+    "website": "https://cedarlakeonline.org",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 282,
+    "title": "Harbor City Church",
+    "slug": "harbor-city-church",
+    "status": "publish",
+    "content": "Contemporary church focused on faith, community, and spiritual growth.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "16121 Loraine Rd, Biloxi, MS 39532",
+    "phone": "(228) 297-7639",
+    "email": "",
+    "website": "https://harborcity.life",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 283,
+    "title": "Coast Community Church",
+    "slug": "coast-community-church",
+    "status": "publish",
+    "content": "Welcoming church community serving the Biloxi area with Sunday worship.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "15041 Shriners Blvd, Biloxi, MS 39532",
+    "phone": "(228) 392-2087",
+    "email": "",
+    "website": "https://coastcommunitychurch.org",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Churches & Religious"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 284,
+    "title": "Acosta Veterinary Hospital",
+    "slug": "acosta-veterinary-hospital",
+    "status": "publish",
+    "content": "Comprehensive veterinary services for companion animals on the Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2629 Pass Rd, Biloxi, MS 39531",
+    "phone": "(228) 385-7611",
+    "email": "",
+    "website": "https://acostavet.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 285,
+    "title": "Edgewater Veterinary Hospital",
+    "slug": "edgewater-veterinary-hospital",
+    "status": "publish",
+    "content": "Full-service veterinary hospital providing compassionate care for pets.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "2632 Executive Place, Biloxi, MS 39531",
+    "phone": "(228) 388-5540",
+    "email": "",
+    "website": "https://edgewaterveterinary.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 286,
+    "title": "Fur Baby's Veterinary Hospital",
+    "slug": "fur-babys-veterinary-hospital",
+    "status": "publish",
+    "content": "Caring veterinary hospital for dogs, cats, and small animals.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "17339 Highway 67, Biloxi, MS 39532",
+    "phone": "(228) 967-7709",
+    "email": "",
+    "website": "https://furbabysvet.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Animal & Pet Services"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 287,
+    "title": "Coastal Mississippi Mardi Gras Museum",
+    "slug": "coastal-mississippi-mardi-gras-museum",
+    "status": "publish",
+    "content": "Museum celebrating Gulf Coast Mardi Gras traditions with exhibits and memorabilia.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "792-A Howard Ave, Biloxi, MS 39530",
+    "phone": "(228) 314-4747",
+    "email": "",
+    "website": "https://coastalmardigras.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Arts & Entertainment"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 288,
+    "title": "Sky Bar at The Reef",
+    "slug": "sky-bar-at-the-reef",
+    "status": "publish",
+    "content": "Rooftop bar with panoramic Gulf views, craft cocktails, and live entertainment.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1749 Beach Blvd, Biloxi, MS 39531",
+    "phone": "(228) 206-7075",
+    "email": "",
+    "website": "https://skybarbiloxi.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 289,
+    "title": "The Mermaid Dive Bar",
+    "slug": "the-mermaid-dive-bar",
+    "status": "publish",
+    "content": "Eclectic dive bar on Howard Avenue with cold drinks and laid-back vibes.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "709 Howard Ave, Biloxi, MS 39530",
+    "phone": "(228) 207-2878",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 290,
+    "title": "Sharkheads",
+    "slug": "sharkheads",
+    "status": "publish",
+    "content": "Iconic beach souvenir shop housed in a giant shark's mouth on Beach Blvd.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1703 Beach Blvd, Biloxi, MS 39531",
+    "phone": "(228) 374-9800",
+    "email": "",
+    "website": "https://sharkheads.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 291,
+    "title": "Gabrielle's",
+    "slug": "gabrielles",
+    "status": "publish",
+    "content": "Trendy women's boutique offering curated clothing, accessories, and gifts.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "1765 Popps Ferry Rd Ste G, Biloxi, MS 39532",
+    "phone": "(228) 385-0550",
+    "email": "",
+    "website": "https://shopgabrielles.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 292,
+    "title": "The Threaded Cork Biloxi",
+    "slug": "the-threaded-cork-biloxi",
+    "status": "publish",
+    "content": "Unique shop combining wine bar with boutique clothing and gifts.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "136 Rue Magnolia, Biloxi, MS 39530",
+    "phone": "(228) 967-7424",
+    "email": "",
+    "website": "https://thethreadedcorkms.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 293,
+    "title": "Mega-Bite Fishing Charters",
+    "slug": "mega-bite-fishing-charters",
+    "status": "publish",
+    "content": "Deep sea fishing charters in the Gulf of Mexico for groups and families.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "3366 Bay Shore Dr, Biloxi, MS 39530",
+    "phone": "(228) 861-4627",
+    "email": "",
+    "website": "https://teammegabite.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 294,
+    "title": "Biloxi Bluewater Charters",
+    "slug": "biloxi-bluewater-charters",
+    "status": "publish",
+    "content": "Offshore and nearshore fishing charters for an unforgettable Gulf Coast experience.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Biloxi, MS 39530",
+    "phone": "(228) 326-6000",
+    "email": "",
+    "website": "https://biloxibluewatercharters.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Outdoors & Recreation"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 295,
+    "title": "Moore Community House",
+    "slug": "moore-community-house",
+    "status": "publish",
+    "content": "Nonprofit providing early education, family programs, and community services since 1930.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "406 Davis St, Biloxi, MS 39530",
+    "phone": "(228) 436-0881",
+    "email": "",
+    "website": "https://moorecommunityhouse.org",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Education & Childcare"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 296,
+    "title": "Junior Auxiliary of Biloxi-Ocean Springs",
+    "slug": "junior-auxiliary-of-biloxi-ocean-springs",
+    "status": "publish",
+    "content": "Nonprofit focused on children's welfare through community service projects.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Biloxi, MS 39530",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Community Services & Nonprofits"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 297,
+    "title": "Chopstx Noodle Bar D'Iberville",
+    "slug": "chopstx-noodle-bar-diberville",
+    "status": "publish",
+    "content": "Vietnamese pho, banh mi, and noodle dishes in a modern fast-casual setting.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "D'Iberville, MS 39540",
+    "phone": "(228) 432-5560",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 298,
+    "title": "Rock N Roll Sushi D'Iberville",
+    "slug": "rock-n-roll-sushi-diberville",
+    "status": "publish",
+    "content": "Creative American-style sushi rolls with a rock and roll theme.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "D'Iberville, MS 39540",
+    "phone": "(228) 392-5500",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 299,
+    "title": "Target - D'Iberville",
+    "slug": "target-diberville",
+    "status": "publish",
+    "content": "National retail chain offering clothing, electronics, groceries, and home essentials.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "The Promenade, D'Iberville, MS 39540",
+    "phone": "(228) 396-1300",
+    "email": "",
+    "website": "https://www.target.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 300,
+    "title": "Dick's Sporting Goods - D'Iberville",
+    "slug": "dicks-sporting-goods-diberville",
+    "status": "publish",
+    "content": "Sporting goods retailer with equipment, apparel, and footwear for all sports.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "The Promenade, D'Iberville, MS 39540",
+    "phone": "(228) 396-6400",
+    "email": "",
+    "website": "https://www.dickssportinggoods.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 301,
+    "title": "Marshalls - D'Iberville",
+    "slug": "marshalls-diberville",
+    "status": "publish",
+    "content": "Off-price department store offering brand-name clothing and home goods.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "The Promenade, D'Iberville, MS 39540",
+    "phone": "(228) 396-0200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 302,
+    "title": "ULTA Beauty - D'Iberville",
+    "slug": "ulta-beauty-diberville",
+    "status": "publish",
+    "content": "Beauty retailer offering cosmetics, skincare, hair care, and salon services.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "The Promenade, D'Iberville, MS 39540",
+    "phone": "(228) 392-6200",
+    "email": "",
+    "website": "https://www.ulta.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Beauty & Personal Care"
+    ],
+    "location": [
+      "D'Iberville"
+    ],
+    "tags": [],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 303,
+    "title": "Harbor View Cafe",
+    "slug": "harbor-view-cafe",
+    "status": "publish",
+    "content": "Waterfront cafe with wine, cocktails, and scenic Gulf Coast dining.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Long Beach, MS 39560",
+    "phone": "(228) 868-4550",
+    "email": "",
+    "website": "https://www.harborviewcafelb.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 304,
+    "title": "The Juicy Caboosy",
+    "slug": "the-juicy-caboosy",
+    "status": "publish",
+    "content": "Breakfast and lunch spot serving fresh Southern-style dishes.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "407 Mason Ave, Long Beach, MS 39560",
+    "phone": "(228) 297-7577",
+    "email": "",
+    "website": "https://thejuicycaboosy.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 305,
+    "title": "Coastal Daiquiri Bar & Grill",
+    "slug": "coastal-daiquiri-bar-grill",
+    "status": "publish",
+    "content": "Downtown Long Beach bar and grill featuring frozen daiquiris and Gulf Coast fare.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Long Beach, MS 39560",
+    "phone": "(228) 863-9800",
+    "email": "",
+    "website": "https://www.coastaldaiquiri.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 306,
+    "title": "Bull's Restaurant",
+    "slug": "bulls-restaurant",
+    "status": "publish",
+    "content": "Casual family restaurant with a broad menu and loyal local following.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "300 Jeff Davis Ave, Long Beach, MS 39560",
+    "phone": "(228) 868-7744",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 307,
+    "title": "Leggett's Tire & Auto Service",
+    "slug": "leggetts-tire-auto-service",
+    "status": "publish",
+    "content": "Trusted tire and auto repair serving Long Beach, Gulfport, and Pass Christian.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Long Beach, MS 39560",
+    "phone": "(228) 863-3220",
+    "email": "",
+    "website": "https://www.leggettstire.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Long Beach"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 308,
+    "title": "Shaggy's Pass Harbor",
+    "slug": "shaggys-pass-harbor",
+    "status": "publish",
+    "content": "Waterfront seafood restaurant with frozen drinks and live music at the harbor.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Pass Christian, MS 39571",
+    "phone": "(228) 452-9001",
+    "email": "",
+    "website": "https://shaggys.com",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Pass Christian"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 309,
+    "title": "R & B Brick Oven Pizza Saucier",
+    "slug": "r-b-brick-oven-pizza-saucier",
+    "status": "publish",
+    "content": "Wood-fired brick oven pizza with fresh ingredients and craft beer.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "Saucier, MS 39574",
+    "phone": "(228) 832-5100",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Saucier"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 310,
+    "title": "Steve's Automotive & Repair",
+    "slug": "steves-automotive-repair",
+    "status": "publish",
+    "content": "Full-service auto repair and maintenance for all makes and models.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "17380 Highway 49, Saucier, MS 39574",
+    "phone": "(228) 832-4200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Auto Services"
+    ],
+    "location": [
+      "Saucier"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 311,
+    "title": "R & D Pharmacy",
+    "slug": "r-d-pharmacy",
+    "status": "publish",
+    "content": "Locally owned pharmacy providing prescriptions, health products, and personal service.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "23457 Central Dr, Saucier, MS 39574",
+    "phone": "(228) 832-7200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Saucier"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
+  },
+  {
+    "id": 312,
+    "title": "Ranchland Tractor & ATV",
+    "slug": "ranchland-tractor-atv",
+    "status": "publish",
+    "content": "Sales and service for tractors, ATVs, and outdoor power equipment.",
+    "excerpt": "",
+    "post_date": "2026-03-12 00:00:00",
+    "address": "21277 Highway 49, Saucier, MS 39574",
+    "phone": "(228) 832-6200",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Shopping & Retail"
+    ],
+    "location": [
+      "Saucier"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
