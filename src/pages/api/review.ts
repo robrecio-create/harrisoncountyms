@@ -41,7 +41,7 @@ export const POST: APIRoute = async ({ request }) => {
     const { data: biz, error: bizError } = await supabase
       .from('businesses')
       .select('id, featured')
-      .eq('county', COUNTY)
+      .ilike('county', COUNTY)
       .eq('slug', slug)
       .single();
 

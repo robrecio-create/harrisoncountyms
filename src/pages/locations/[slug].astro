@@ -48,7 +48,7 @@ if (supabaseUrl && supabaseKey) {
     const { data: claims } = await supabase
       .from('business_claims')
       .select('business_id, businesses!inner(slug)')
-      .eq('status', 'approved');
+      .ilike('status', 'approved');
     if (claims) {
       for (const c of claims) {
         const biz = (c as any).businesses;
