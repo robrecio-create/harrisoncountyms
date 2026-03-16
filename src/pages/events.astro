@@ -23,7 +23,7 @@ function getMonthDay(dateStr: string) {
 }
 ---
 
-<Layout title="Events — Harrison County MS">
+<Layout title="Events — Harrison County MS" description="Upcoming events, festivals, and community gatherings across Harrison County, Mississippi. Find things to do in Gulfport, Biloxi, and the Gulf Coast.">
   <Header activePage="Events" />
 
   <section class="page-hero">
@@ -37,7 +37,7 @@ function getMonthDay(dateStr: string) {
   <section class="events-section">
     <div class="container">
       <div class="search-bar">
-        <input type="text" id="event-search" placeholder="Search events..." autocomplete="off" />
+        <input type="text" id="event-search" placeholder="Search events..." autocomplete="off" aria-label="Search events" />
       </div>
       <p class="result-count" id="event-result-count">{events.length} event{events.length === 1 ? '' : 's'}</p>
 
