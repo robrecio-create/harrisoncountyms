@@ -10967,32 +10967,6 @@
     "deal_expiry": ""
   },
   {
-    "id": 412,
-    "title": "Buddy's Home Furnishings",
-    "slug": "buddy-s-home-furnishings",
-    "status": "publish",
-    "content": "Home furnishings store in Biloxi offering rent-to-own and direct purchase options on furniture and appliances.",
-    "excerpt": "",
-    "post_date": "2026-03-13T12:00:00",
-    "address": "Biloxi, MS 39531",
-    "phone": "(228) 432-4455",
-    "email": "",
-    "website": "",
-    "latitude": "",
-    "longitude": "",
-    "featured": false,
-    "categories": [
-      "Shopping & Retail"
-    ],
-    "location": [
-      "Biloxi"
-    ],
-    "tags": [],
-    "deal_title": "",
-    "deal_description": "",
-    "deal_expiry": ""
-  },
-  {
     "id": 413,
     "title": "Cell Expart",
     "slug": "cell-expart",
@@ -22791,84 +22765,6 @@
     ],
     "location": [
       "Biloxi"
-    ],
-    "tags": [],
-    "deal_title": "",
-    "deal_description": "",
-    "deal_expiry": ""
-  },
-  {
-    "id": 867,
-    "title": "Future Design Group",
-    "slug": "future-design-group",
-    "status": "publish",
-    "content": "Award-winning digital marketing studio established in 2013.",
-    "excerpt": "",
-    "post_date": "2026-03-13T12:00:00",
-    "address": "2300 E Pass Rd, Suite B, Gulfport, MS 39507",
-    "phone": "(888) 964-4991",
-    "email": "",
-    "website": "https://www.futuredesigngroup.com/",
-    "latitude": "",
-    "longitude": "",
-    "featured": false,
-    "categories": [
-      "Professional Services"
-    ],
-    "location": [
-      "Gulfport"
-    ],
-    "tags": [],
-    "deal_title": "",
-    "deal_description": "",
-    "deal_expiry": ""
-  },
-  {
-    "id": 868,
-    "title": "ChartLocal",
-    "slug": "chartlocal",
-    "status": "publish",
-    "content": "Digital marketing and consulting company in Gulfport since 2014.",
-    "excerpt": "",
-    "post_date": "2026-03-13T12:00:00",
-    "address": "14351 Hwy 49 North, Gulfport, MS 39503",
-    "phone": "(228) 861-2961",
-    "email": "",
-    "website": "https://chartlocal.com/",
-    "latitude": "",
-    "longitude": "",
-    "featured": false,
-    "categories": [
-      "Professional Services"
-    ],
-    "location": [
-      "Gulfport"
-    ],
-    "tags": [],
-    "deal_title": "",
-    "deal_description": "",
-    "deal_expiry": ""
-  },
-  {
-    "id": 869,
-    "title": "Gulf Coast Web",
-    "slug": "gulf-coast-web",
-    "status": "publish",
-    "content": "Full-service digital agency providing web development, SEO, and marketing since 2012.",
-    "excerpt": "",
-    "post_date": "2026-03-13T12:00:00",
-    "address": "14055 John Clark Rd, Gulfport, MS 39503",
-    "phone": "(228) 563-0660",
-    "email": "",
-    "website": "https://gulfcoastweb.com/",
-    "latitude": "",
-    "longitude": "",
-    "featured": false,
-    "categories": [
-      "Professional Services"
-    ],
-    "location": [
-      "Gulfport"
     ],
     "tags": [],
     "deal_title": "",
