@@ -8397,9 +8397,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Bars & Nightlife",
-      "American"
+      "Restaurants & Dining",
+      "Bars & Nightlife"
     ],
     "location": [
       "Gulfport"
@@ -8425,8 +8424,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Coffee & Tea",
-      "Breakfast & Brunch"
+      "Restaurants & Dining"
     ],
     "location": [
       "Gulfport"
@@ -8452,7 +8450,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging"
+      "Accommodations"
     ],
     "location": [
       "Gulfport"
@@ -8478,7 +8476,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging"
+      "Accommodations"
     ],
     "location": [
       "Gulfport"
@@ -8504,7 +8502,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging"
+      "Accommodations"
     ],
     "location": [
       "Gulfport"
@@ -8608,8 +8606,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Hair Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Gulfport"
@@ -8635,7 +8632,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Gulfport"
@@ -8661,8 +8658,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Hair Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Gulfport"
@@ -8688,8 +8684,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Clothing & Accessories"
+      "Shopping & Retail"
     ],
     "location": [
       "Gulfport"
@@ -8715,9 +8710,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Home Decor",
-      "Gifts & Souvenirs"
+      "Shopping & Retail"
     ],
     "location": [
       "Gulfport"
@@ -8743,7 +8736,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -8796,8 +8789,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Home Services",
-      "Electricians"
+      "Home Services & Contractors"
     ],
     "location": [
       "Gulfport"
@@ -8823,8 +8815,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Eye Care"
+      "Health & Medical"
     ],
     "location": [
       "Gulfport"
@@ -8836,10 +8827,10 @@
   },
   {
     "id": 330,
-    "title": "Singing River Medical Clinic \u2013 Orange Grove",
+    "title": "Singing River Medical Clinic – Orange Grove",
     "slug": "singing-river-medical-clinic-orange-grove",
     "status": "publish",
-    "content": "Singing River Medical Clinic \u2013 Orange Grove is a primary care and urgent care clinic operated by Singing River Health System in Gulfport, providing medical services for adults and children including sick visits, wellness exams, immunizations, and minor procedures. Part of one of Mississippi's largest non-profit healthcare organizations.",
+    "content": "Singing River Medical Clinic – Orange Grove is a primary care and urgent care clinic operated by Singing River Health System in Gulfport, providing medical services for adults and children including sick visits, wellness exams, immunizations, and minor procedures. Part of one of Mississippi's largest non-profit healthcare organizations.",
     "excerpt": "",
     "post_date": "2026-03-12",
     "address": "17501 Hwy 57, Gulfport, MS 39503",
@@ -8850,8 +8841,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Urgent Care"
+      "Health & Medical"
     ],
     "location": [
       "Gulfport"
@@ -8877,8 +8867,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Dentists"
+      "Health & Medical"
     ],
     "location": [
       "Gulfport"
@@ -8905,7 +8894,7 @@
     "featured": false,
     "categories": [
       "Health & Fitness",
-      "Recreation"
+      "Outdoors & Recreation"
     ],
     "location": [
       "Gulfport"
@@ -8983,8 +8972,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "American",
+      "Restaurants & Dining",
       "Bars & Nightlife"
     ],
     "location": [
@@ -9012,8 +9000,8 @@
     "featured": false,
     "categories": [
       "Bars & Nightlife",
-      "Entertainment",
-      "Restaurants"
+      "Arts & Entertainment",
+      "Restaurants & Dining"
     ],
     "location": [
       "Biloxi"
@@ -9039,8 +9027,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Steakhouses"
+      "Restaurants & Dining"
     ],
     "location": [
       "Biloxi"
@@ -9066,8 +9053,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Steakhouses"
+      "Restaurants & Dining"
     ],
     "location": [
       "Biloxi"
@@ -9093,9 +9079,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Steakhouses",
-      "Seafood"
+      "Restaurants & Dining"
     ],
     "location": [
       "Biloxi"
@@ -9121,8 +9105,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "American",
+      "Restaurants & Dining",
       "Bars & Nightlife"
     ],
     "location": [
@@ -9149,8 +9132,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Fitness",
-      "Yoga & Pilates"
+      "Health & Fitness"
     ],
     "location": [
       "Biloxi"
@@ -9202,9 +9184,9 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Community Services",
+      "Community Services & Nonprofits",
       "Health & Fitness",
-      "Recreation"
+      "Outdoors & Recreation"
     ],
     "location": [
       "Biloxi"
@@ -9230,7 +9212,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging"
+      "Accommodations"
     ],
     "location": [
       "Biloxi"
@@ -9256,7 +9238,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging"
+      "Accommodations"
     ],
     "location": [
       "Biloxi"
@@ -9282,7 +9264,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Hotels & Lodging"
+      "Accommodations"
     ],
     "location": [
       "Biloxi"
@@ -9308,8 +9290,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Hair Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Biloxi"
@@ -9335,8 +9316,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Nail Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Biloxi"
@@ -9362,8 +9342,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Nail Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Biloxi"
@@ -9389,8 +9368,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Dentists"
+      "Health & Medical"
     ],
     "location": [
       "Biloxi"
@@ -9416,8 +9394,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Health & Medical",
-      "Urgent Care"
+      "Health & Medical"
     ],
     "location": [
       "Biloxi"
@@ -9443,7 +9420,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -9469,7 +9446,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -9495,7 +9472,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -9521,7 +9498,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Automotive"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -9547,10 +9524,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Home Services",
-      "HVAC",
-      "Plumbing",
-      "Electricians"
+      "Home Services & Contractors"
     ],
     "location": [
       "Biloxi"
@@ -9576,9 +9550,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Home Services",
-      "HVAC",
-      "Plumbing"
+      "Home Services & Contractors"
     ],
     "location": [
       "Biloxi"
@@ -9604,8 +9576,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Beauty & Spas",
-      "Nail Salons"
+      "Beauty & Personal Care"
     ],
     "location": [
       "Biloxi"
@@ -9631,8 +9602,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Asian"
+      "Restaurants & Dining"
     ],
     "location": [
       "Long Beach"
@@ -9658,8 +9628,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Seafood"
+      "Restaurants & Dining"
     ],
     "location": [
       "Long Beach"
@@ -9685,9 +9654,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Seafood",
-      "American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Long Beach"
@@ -9713,9 +9680,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Breakfast & Brunch",
-      "American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Pass Christian"
@@ -9741,9 +9706,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Coffee & Tea",
-      "Bookstores",
-      "Breakfast & Brunch"
+      "Restaurants & Dining",
+      "Shopping & Retail"
     ],
     "location": [
       "Pass Christian"
@@ -9769,9 +9733,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Gifts & Souvenirs",
-      "Jewelry"
+      "Shopping & Retail"
     ],
     "location": [
       "Pass Christian"
@@ -9797,8 +9759,8 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Shopping",
-      "Specialty Food & Drink"
+      "Shopping & Retail",
+      "Restaurants & Dining"
     ],
     "location": [
       "Pass Christian"
@@ -9824,9 +9786,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Cajun & Creole",
-      "American"
+      "Restaurants & Dining"
     ],
     "location": [
       "D'Iberville"
@@ -9852,9 +9812,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Asian",
-      "Coffee & Tea"
+      "Restaurants & Dining"
     ],
     "location": [
       "D'Iberville"
@@ -9880,8 +9838,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Asian"
+      "Restaurants & Dining"
     ],
     "location": [
       "D'Iberville"
@@ -9907,9 +9864,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "American",
-      "Sandwiches"
+      "Restaurants & Dining"
     ],
     "location": [
       "D'Iberville"
@@ -9935,9 +9890,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Mexican",
-      "Latin American"
+      "Restaurants & Dining"
     ],
     "location": [
       "Saucier"
@@ -9963,8 +9916,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Recreation",
-      "Golf"
+      "Outdoors & Recreation"
     ],
     "location": [
       "Saucier"
@@ -9990,9 +9942,7 @@
     "longitude": null,
     "featured": false,
     "categories": [
-      "Restaurants",
-      "Sandwiches",
-      "Fast Food"
+      "Restaurants & Dining"
     ],
     "location": [
       "Saucier"
@@ -14658,7 +14608,7 @@
   },
   {
     "id": 552,
-    "title": "Jalape\u00f1o Grill Long Beach",
+    "title": "Jalapeño Grill Long Beach",
     "slug": "jalape-o-grill-long-beach",
     "status": "publish",
     "content": "Mexican grill in Long Beach with fresh Tex-Mex dishes, margaritas, and a friendly neighborhood atmosphere.",
@@ -17960,7 +17910,7 @@
   },
   {
     "id": 679,
-    "title": "Sk\u00e5l Axe Throwing",
+    "title": "Skål Axe Throwing",
     "slug": "sk-l-axe-throwing",
     "status": "publish",
     "content": "Axe throwing venue in Gulfport offering lane rentals, leagues, and private events for groups.",
@@ -23721,7 +23671,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -23751,7 +23701,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -23781,7 +23731,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -23810,7 +23760,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "D'Iberville"
@@ -23839,7 +23789,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -23869,7 +23819,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -23898,7 +23848,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -23927,7 +23877,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -23956,7 +23906,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -23985,7 +23935,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -24015,7 +23965,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -24044,7 +23994,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -24074,7 +24024,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -24104,7 +24054,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Biloxi"
@@ -24133,7 +24083,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Churches & Religious Organizations"
+      "Churches & Religious"
     ],
     "location": [
       "Gulfport"
@@ -24163,7 +24113,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24192,7 +24142,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24221,7 +24171,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24250,7 +24200,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24279,7 +24229,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -24308,7 +24258,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24337,7 +24287,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -24366,7 +24316,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24396,7 +24346,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24426,7 +24376,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -24455,7 +24405,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24484,7 +24434,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Biloxi"
@@ -24513,7 +24463,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "D'Iberville"
@@ -24541,7 +24491,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "D'Iberville"
@@ -24571,7 +24521,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Automotive Services"
+      "Auto Services"
     ],
     "location": [
       "Gulfport"
@@ -24870,7 +24820,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "Gulfport"
@@ -24900,7 +24850,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "Biloxi"
@@ -24930,8 +24880,8 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Hotels & Lodging",
-      "Recreation & Entertainment"
+      "Accommodations",
+      "Arts & Entertainment"
     ],
     "location": [
       "Gulfport"
@@ -24962,7 +24912,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "Gulfport"
@@ -24992,7 +24942,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "Gulfport"
@@ -29069,7 +29019,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "Biloxi"
@@ -29095,7 +29045,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "Biloxi"
@@ -29121,7 +29071,7 @@
     "longitude": "",
     "featured": false,
     "categories": [
-      "Recreation & Entertainment"
+      "Arts & Entertainment"
     ],
     "location": [
       "D'Iberville"
