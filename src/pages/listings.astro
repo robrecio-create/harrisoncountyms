@@ -40,7 +40,7 @@ if (supabaseUrl && supabaseKey) {
     const { data: elevatedBiz } = await supabase
       .from('businesses')
       .select('slug')
-      .ilike('county', 'harrison')
+      .ilike('county', 'harrison-ms')
       .in('listing_tier', ['elevated', 'seo']);
     if (elevatedBiz) {
       for (const b of elevatedBiz) elevatedSlugs.add(b.slug);
