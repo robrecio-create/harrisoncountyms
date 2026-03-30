@@ -29834,5 +29834,104 @@
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
+  },
+  {
+    "id": 1131,
+    "title": "Half Shell Oyster House",
+    "slug": "half-shell-oyster-house",
+    "status": "publish",
+    "content": "Half Shell Oyster House is a New Orleans-style seafood restaurant and oyster bar in Gulfport. The menu features Gulf oysters served raw, chargrilled, or Rockefeller, alongside fresh seafood platters, po'boys, gumbo, and Louisiana-inspired dishes. The nautical-themed restaurant offers a lively atmosphere with a full bar.",
+    "phone": "(228) 868-6477",
+    "website": "https://www.halfshelloysterhouse.com",
+    "address": "15195 Crossroads Pkwy, Gulfport, MS 39503",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [],
+    "featured": false
+  },
+  {
+    "id": 1132,
+    "title": "Mary Mahoney's Old French House",
+    "slug": "mary-mahoneys-old-french-house",
+    "status": "publish",
+    "content": "Mary Mahoney's is a historic fine dining institution housed in an 1737 French Colonial building in downtown Biloxi. For over 50 years, the restaurant has served Gulf Coast seafood, steaks, and Creole classics in an elegant setting. The courtyard dining area features a 2,000-year-old live oak tree. A true Mississippi landmark.",
+    "phone": "(228) 374-0163",
+    "website": "https://www.marymahoneys.com",
+    "address": "138 Rue Magnolia, Biloxi, MS 39530",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
+  },
+  {
+    "id": 1133,
+    "title": "Shaggy's Biloxi Beach",
+    "slug": "shaggys-biloxi-beach",
+    "status": "publish",
+    "content": "Shaggy's is a casual beachfront bar and grill on the Biloxi waterfront known for seafood, burgers, tacos, and frozen drinks. The open-air patio offers Gulf views and a laid-back beach vibe. Live music, a tiki bar atmosphere, and family-friendly dining make it a popular destination for locals and visitors.",
+    "phone": "(228) 432-4848",
+    "website": "https://www.shaggys.biz",
+    "address": "1763 Beach Blvd, Biloxi, MS 39531",
+    "categories": [
+      "Restaurants & Dining",
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [],
+    "featured": false
+  },
+  {
+    "id": 1134,
+    "title": "Blow Fly Inn",
+    "slug": "blow-fly-inn",
+    "status": "publish",
+    "content": "Blow Fly Inn is a legendary Gulfport dive bar and seafood joint that has been serving the Mississippi Gulf Coast since 1952. Known for its no-frills atmosphere, cold beer, and fresh boiled seafood, it's a local institution. The roadhouse vibe and waterfront location on Bernard Bayou make it a must-visit.",
+    "phone": "(228) 896-9812",
+    "website": "",
+    "address": "16206 Landon Rd, Gulfport, MS 39503",
+    "categories": [
+      "Restaurants & Dining",
+      "Bars & Nightlife"
+    ],
+    "location": [
+      "Gulfport"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
+  },
+  {
+    "id": 1135,
+    "title": "The Blind Tiger",
+    "slug": "the-blind-tiger",
+    "status": "publish",
+    "content": "The Blind Tiger is a craft cocktail bar and restaurant in the heart of downtown Biloxi. The speakeasy-inspired venue features creative cocktails, local beers, and an elevated pub menu. Live music and events make it a popular nightlife destination on the Gulf Coast.",
+    "phone": "(228) 207-7399",
+    "website": "https://www.theblindtigerbiloxi.com",
+    "address": "119 Lameuse St, Biloxi, MS 39530",
+    "categories": [
+      "Bars & Nightlife",
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "locally-owned"
+    ],
+    "featured": false
   }
 ]
