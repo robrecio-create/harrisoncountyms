@@ -131,14 +131,15 @@ const hasDeal = !!biz.deal_title;
 const hasServices = services.length > 0;
 const hasGallery = photos.length > 0 || !!videoEmbedUrl;
 
-// SEO description
+// SEO description - ensure minimum 70 chars for better SEO
 const rawDesc = biz.excerpt || biz.content || '';
+const fallbackDesc = `${biz.title} is a local business in ${biz.location?.[0] || 'Harrison County'}, Mississippi. ${biz.categories?.[0] ? `Offering ${biz.categories[0].toLowerCase()} services. ` : ''}Find contact info, hours, and more.`;
+const seoDescription = rawDesc.length >= 70 
+  ? (rawDesc.length > 155 ? rawDesc.slice(0, 152).trimEnd() + '...' : rawDesc)
+  : fallbackDesc;
 
 // Parse markdown content
 const parsedContent = biz.content ? marked.parse(biz.content) : '';
-const seoDescription = rawDesc.length > 155
-  ? rawDesc.slice(0, 152).trimEnd() + '...'
-  : rawDesc || `${biz.title} is a local business in ${biz.location?.[0] || 'Harrison County'}, Mississippi. Find contact info, hours, and more.`;
 ---
 
 <Layout
