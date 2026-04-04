@@ -28,6 +28,6 @@ Biloxi Beach stretches for miles along Highway 90 and is free and open to the pu
 
 ## Biloxi Town Green and Keesler Area
 
-The **Biloxi Town Green** is a waterfront park and event venue that hosts concerts, festivals, and community gatherings throughout the year. It is a great spot to watch the sunset over the Mississippi Sound. Nearby, the area around **Keesler Air Force Base** on the eastern side of the city has its own cluster of restaurants and shops that cater to both military families and locals.
+The **Biloxi Town Green** is a waterfront park and event venue that hosts concerts, festivals, and community gatherings. It is a great sunset spot. Nearby, the area around **Keesler Air Force Base** has its own cluster of restaurants and shops serving military families and locals.
 
 Check the [events calendar](/events/) for festivals, live music, and seasonal happenings during your visit.

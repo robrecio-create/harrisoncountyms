@@ -18,7 +18,7 @@ The **Scarlet Pearl Casino Resort** is D'Iberville's flagship entertainment dest
 
 ## Big Play Entertainment Center
 
-For families with kids or groups looking for something active, **Big Play Entertainment Center** is a large indoor recreation facility with bowling lanes, laser tag, an arcade, bumper cars, and a ropes course. It is a reliable rainy-day option and a popular spot for birthday parties and group outings. The facility is well maintained and big enough that it does not feel cramped even on busy weekends.
+For families with kids or groups looking for something active, **Big Play Entertainment Center** is a large indoor recreation facility with bowling lanes, laser tag, an arcade, bumper cars, and a ropes course. It is a reliable rainy-day option and a popular spot for birthday parties and group outings. The facility is well maintained and spacious even on busy weekends.
 
 ## Lava Links Golf
 

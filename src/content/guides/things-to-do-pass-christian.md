@@ -18,7 +18,7 @@ The **Pass Christian Harbor** is the center of the town's waterfront life. It is
 
 ## Pass Christian Yacht Club
 
-The **Pass Christian Yacht Club**, established in 1849, is the second-oldest yacht club in the United States. Sailing has been part of this town's identity for more than 170 years. While the club itself is private, regattas and sailing events held throughout the year are visible from the harbor and the beach. The yacht club's presence gives Pass Christian a maritime culture that runs deeper than any other community on the coast.
+The **Pass Christian Yacht Club**, established in 1849, is the second-oldest yacht club in the United States. Sailing has been part of this town's identity for more than 170 years. While the club is private, regattas and sailing events throughout the year are visible from the harbor and beach.
 
 ## War Memorial Park
 
@@ -26,10 +26,10 @@ The **Pass Christian Yacht Club**, established in 1849, is the second-oldest yac
 
 ## Historic Downtown
 
-The **downtown district** along Davis Avenue and the surrounding blocks has been rebuilt and revitalized since Hurricane Katrina. Small galleries, antique shops, boutiques, and locally owned restaurants give it a walkable charm that rewards slow exploration. Art galleries showcase work by Gulf Coast painters and photographers. Restaurants and cafes serve fresh seafood and Southern dishes in casual, welcoming settings. The downtown is compact enough to cover on foot in an afternoon.
+The **downtown district** along Davis Avenue and the surrounding blocks has been rebuilt and revitalized since Hurricane Katrina. Small galleries, antique shops, boutiques, and locally owned restaurants give it a walkable charm that rewards slow exploration. Galleries showcase Gulf Coast artists, and restaurants serve fresh seafood in casual settings. The downtown is compact enough to cover on foot in an afternoon.
 
 ## Henderson Point and Pass Christian Isles
 
-**Henderson Point** occupies the eastern end of Pass Christian where the town meets Long Beach. This quiet residential area sits on a peninsula and is known for peaceful streets and water views. On the western side, the **Pass Christian Isles** neighborhood is built around canals that connect to the Sound. The area has a Florida Keys feel, with homes on the water, private docks, and boats in backyards. Both areas reward a slow drive or bike ride.
+**Henderson Point** occupies the eastern end of Pass Christian where the town meets Long Beach. This quiet residential area sits on a peninsula and is known for peaceful streets and water views. On the western side, the **Pass Christian Isles** neighborhood is built around canals that connect to the Sound. Both areas reward a slow drive or bike ride.
 
 Browse [Pass Christian businesses](/listings/) and check the [events calendar](/events/) for festivals and community gatherings.

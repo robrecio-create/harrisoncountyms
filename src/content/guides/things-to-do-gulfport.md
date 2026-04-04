@@ -26,7 +26,7 @@ Downtown Gulfport has developed into a genuine arts district centered around 25t
 
 ## Gulfport Premium Outlets
 
-For shopping, **Gulfport Premium Outlets** on Highway 49 draws visitors from across the region with over seventy brand-name stores offering discounted prices. It is the largest outlet center on the Mississippi Gulf Coast and a practical stop for visitors staying in the area.
+For shopping, **Gulfport Premium Outlets** on Highway 49 draws visitors from across the region with over seventy brand-name stores offering discounted prices. It is a practical stop for visitors staying in the area.
 
 ## Institute for Marine Mammal Studies
 
