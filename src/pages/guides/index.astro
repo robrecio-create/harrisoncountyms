@@ -4,15 +4,19 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 
 const guides = [
-  { slug: 'best-restaurants-gulfport', title: 'Best Restaurants in Gulfport', town: 'Gulfport', category: 'Food & Dining' },
   { slug: 'best-restaurants-biloxi', title: 'Best Restaurants in Biloxi', town: 'Biloxi', category: 'Food & Dining' },
-  { slug: 'best-seafood-gulf-coast', title: 'Best Seafood on the Mississippi Gulf Coast', town: 'Countywide', category: 'Food & Dining' },
-  { slug: 'things-to-do-gulfport', title: 'Things to Do in Gulfport', town: 'Gulfport', category: 'Activities' },
+  { slug: 'best-restaurants-gulfport', title: 'Best Restaurants in Gulfport', town: 'Gulfport', category: 'Food & Dining' },
+  { slug: 'best-restaurants-long-beach', title: 'Best Restaurants in Long Beach', town: 'Long Beach', category: 'Food & Dining' },
+  { slug: 'best-seafood-harrison-county', title: 'Best Seafood in Harrison County', town: 'Countywide', category: 'Food & Dining' },
   { slug: 'things-to-do-biloxi', title: 'Things to Do in Biloxi', town: 'Biloxi', category: 'Activities' },
+  { slug: 'things-to-do-gulfport', title: 'Things to Do in Gulfport', town: 'Gulfport', category: 'Activities' },
   { slug: 'things-to-do-diberville', title: "Things to Do in D'Iberville", town: "D'Iberville", category: 'Activities' },
+  { slug: 'things-to-do-long-beach', title: 'Things to Do in Long Beach', town: 'Long Beach', category: 'Activities' },
+  { slug: 'things-to-do-pass-christian', title: 'Things to Do in Pass Christian', town: 'Pass Christian', category: 'Activities' },
   { slug: 'family-activities-harrison-county', title: 'Family Activities in Harrison County', town: 'Countywide', category: 'Activities' },
-  { slug: 'guide-pass-christian', title: "Pass Christian: Harrison County's Quiet Gem", town: 'Pass Christian', category: 'Town Guide' },
   { slug: 'hidden-gems-harrison-county', title: 'Hidden Gems in Harrison County', town: 'Countywide', category: 'Exploration' },
+  { slug: 'where-to-watch-sunset-harrison-county', title: 'Where to Watch the Sunset in Harrison County', town: 'Countywide', category: 'Exploration' },
+  { slug: 'guide-saucier', title: "Saucier: Harrison County's Quiet Country Escape", town: 'Saucier', category: 'Town Guide' },
 ];
 
 const categories = [...new Set(guides.map(g => g.category))];

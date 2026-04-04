@@ -1,39 +1,47 @@
 ---
 title: "Family Activities in Harrison County"
-description: "Harrison County has more family-friendly options than most Gulf Coast destinations — here's how to keep everyone happy."
+description: "The best family-friendly activities in Harrison County, Mississippi — beaches, aquariums, parks, and outdoor adventures for all ages."
 town: "Countywide"
 category: "Activities"
-publishedDate: "2026-04-01"
+publishedDate: "2026-04-04"
 ---
 
-Harrison County is an underrated family destination. The beach is obvious, but there's plenty beyond the sand.
+Harrison County is one of the Gulf Coast's best family destinations, with enough variety to keep kids entertained and parents relaxed. From hands-on museums to barrier island adventures, here's where to spend your time.
 
-## The Beach
+## Mississippi Aquarium in Gulfport
 
-The beach is free, wide, and runs for miles along Highway 90. Kids can swim, build sandcastles, and collect shells. The water is calm inside the barrier islands — no significant wave action. Good for young swimmers.
+The Mississippi Aquarium in downtown Gulfport is a modern facility focused on the ecosystems of the Gulf South. Kids can feed stingrays, watch river otters play, and walk through exhibits featuring sharks, sea turtles, and native freshwater species. Interactive touch tanks are a hit with younger children. Plan for two to three hours and check for seasonal programming like behind-the-scenes tours.
 
-**Warning**: the water can get murky after rain. If it's been raining, give it a day before swimming.
+## Ship Island Excursion
 
-## Mississippi Aquarium (Gulfport)
+The ferry to West Ship Island departs from Gulfport Harbor and takes about an hour. Once there, families find pristine white-sand beaches, calm Gulf waters ideal for younger swimmers, and Fort Massachusetts — a Civil War-era brick fort kids can explore. Pack sunscreen, water, and snacks since food options on the island are limited. The ferry runs seasonally from March through October.
 
-Opened in 2020, the Mississippi Aquarium downtown Gulfport is a proper facility focused on Gulf Coast marine ecosystems. Touch tanks, stingray feeding, large shark displays. Plan two to three hours. Worth the admission.
+## Gulf Coast Beaches
 
-## Lynn Meadows Discovery Center (Gulfport)
+The man-made beach along Highway 90 stretches for twenty-six miles and is completely free to visit. The water inside the barrier islands stays calm, making it suitable for wading and splashing. Long Beach and Pass Christian tend to be less crowded than the Biloxi and Gulfport stretches. Bring a canopy for shade — the sand can get hot by midday.
 
-Harrison County's dedicated children's museum. Interactive exhibits scaled for kids from toddlers through pre-teens. The outdoor area is excellent. Local families have been bringing kids here for decades. Half-day activity.
+## Lynn Meadows Discovery Center
 
-## Ship Island
+Located in Gulfport, Lynn Meadows is Harrison County's dedicated children's museum. Hands-on exhibits cover science, art, and imaginative play, with separate areas designed for toddlers and older kids. The outdoor play area features treehouses and climbing structures spread across a wooded campus. Families with children under ten will get the most out of a visit.
 
-The ferry to Ship Island is an adventure for kids who haven't done it. The beach on the island is better than the mainland beach, and Fort Massachusetts is a hands-on history lesson. Pack snacks, sunscreen, and a hat. Check ferry schedules — they're seasonal.
+## Friendship Oak at USM Gulf Park
 
-## Buccaneer State Park (Waveland)
+On the University of Southern Mississippi's Gulf Park campus in Long Beach stands the Friendship Oak, a live oak estimated to be over five hundred years old. Its massive canopy spreads wide enough to shade a small gathering. It's free to visit and makes for a memorable photo stop. The campus grounds along the beach are pleasant for a short walk.
 
-About twenty minutes west of Biloxi, this state park has a wave pool open in summer, camping, and beach access. The wave pool is popular with families and much less crowded than theme parks. Bring cash or card for admission.
+## Jones Park Splash Pad and Playground
 
-## Fishing Piers
+Jones Park in Gulfport sits right on the waterfront near the marina. The splash pad runs during warmer months and is free. There's also a large playground, walking paths, and open green space for picnics. It's a convenient stop if you're already in downtown Gulfport.
 
-Public fishing piers along Highway 90 are free. Kids who've never fished do surprisingly well from piers — the water is shallow and the fish are often cooperative. Bring a basic rod, some shrimp for bait, and patience.
+## Gulf Islands Waterpark
 
-## Events
+For a full day of slides and pools, Gulf Islands Waterpark in Gulfport delivers. The park has rides for thrill-seekers and gentler attractions for small children, including a lazy river and a kids' splash zone. Open seasonally, typically May through September.
 
-The county runs family events throughout the year: holiday festivals, outdoor movies, the massive Cruisin' the Coast car show in October. Check the [events calendar](/events/) before your trip.
+## Institute for Marine Mammal Studies
+
+Located in nearby Gulfport, IMMS rehabilitates injured dolphins, sea turtles, and other marine animals. Visitors can tour the facility, see animals in various stages of recovery, and attend educational presentations. It's a meaningful experience for kids interested in marine biology and conservation.
+
+## Mini Golf and More
+
+Several mini golf courses operate along the coast, offering an easy evening activity after a beach day. Look for spots in Gulfport and Biloxi that combine mini golf with ice cream or arcade games.
+
+Check the [Harrison County events calendar](/events/) for seasonal festivals, outdoor movie nights, and holiday programming throughout the year.

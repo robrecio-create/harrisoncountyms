@@ -1,41 +1,33 @@
 ---
 title: "Things to Do in Biloxi"
-description: "World-class casinos, white sand beaches, historic landmarks, and fresh Gulf seafood — Biloxi has more going on than any other city on the Mississippi Gulf Coast."
+description: "The best things to do in Biloxi, Mississippi — casinos, beaches, history, fishing, and Gulf Coast entertainment."
 town: "Biloxi"
 category: "Activities"
-publishedDate: "2026-04-01"
+publishedDate: "2026-04-04"
 ---
 
-Biloxi is Mississippi's most famous coastal city. The casinos get all the attention, but there's genuinely a lot here beyond the slot machines.
-
-## The Beach
-
-Biloxi's beach runs along Highway 90 and is wide, free, and open year-round. Swimming is good in summer; the water warms up by June. The beaches are man-made (dredged sand), which gives them a different texture than natural Gulf beaches, but they work.
+Biloxi is the entertainment capital of the Mississippi Gulf Coast. Whether you are drawn to casinos, history, water activities, or simply relaxing on a white sand beach, this city delivers more variety than any other town in Harrison County.
 
 ## Biloxi Lighthouse
 
-Built in 1848, the Biloxi Lighthouse sits in the median of Highway 90 and is one of the most photographed spots on the Coast. It's open for tours — you can climb it. The view from the top gives you a good sense of how the city is laid out along the coast.
+The Biloxi Lighthouse has stood in the median of Highway 90 since 1848, making it one of the most recognizable landmarks on the entire Gulf Coast. It is one of the few lighthouses in the country located in the middle of a highway. Guided tours take you to the top, where you get a panoramic view of the beach, the barrier islands, and the casino skyline stretching along the shore. The lighthouse survived Hurricane Katrina and remains a point of pride for locals.
 
-## Casinos
+## Casinos and Entertainment
 
-The casino strip runs along the beach. Major properties have hotels, multiple restaurants, entertainment venues, and of course gambling. Even if you're not a gambler, the casino hotels are often the best value for waterfront accommodations.
+Biloxi's casino district lines the beachfront and the Back Bay. **Beau Rivage Resort and Casino** is the most upscale property on the coast, with fine dining, a spa, a theater that books national acts, and a AAA Four Diamond hotel. **Hard Rock Hotel and Casino Biloxi** draws a younger crowd with live music, a rooftop pool, and themed restaurants. **IP Casino Resort Spa** sits on the Back Bay with water views from nearly every room. **Golden Nugget Biloxi** rounds out the major properties with a solid mix of gaming, dining, and a relaxed atmosphere. Even non-gamblers will find plenty to enjoy at the restaurants, shows, and hotel pools.
 
-**Hard Rock Biloxi**, **Beau Rivage**, and **IP Casino** are the biggest. Beau Rivage is the most upscale; Hard Rock tends to attract a younger crowd.
+## Beaches and Water Activities
 
-## History
+Biloxi Beach stretches for miles along Highway 90 and is free and open to the public year-round. The sand is wide and maintained, and the water warms up enough for swimming by late May. For something more adventurous, book a **Shrimp Trip** boat tour out of the Biloxi Small Craft Harbor. These working shrimping excursions let you pull nets and sort the catch alongside the crew.
 
-**Beauvoir** is the last home of Jefferson Davis, President of the Confederacy. The house and grounds are a museum now. Whatever your politics, the antebellum architecture and the story of the site are worth a look.
+**Ship Island excursions** depart from nearby Gulfport and take you twelve miles offshore to Gulf Islands National Seashore, with pristine beaches and Fort Massachusetts. The ferry runs spring through fall.
 
-The **Maritime & Seafood Industry Museum** tells the story of Biloxi's shrimping industry — boats, nets, processing equipment, the whole operation. Small but well done.
+## History and Culture
 
-## The Outdoors
+**Beauvoir**, the last home of Confederate President Jefferson Davis, sits on a shaded beachfront estate along Highway 90. The restored house, a presidential library, and the surrounding grounds offer a window into antebellum Gulf Coast life. The **Maritime and Seafood Industry Museum** tells the story of Biloxi's shrimping and fishing heritage through exhibits on boat building, net making, and the generations of families who made their living on the water. The museum also offers sailing excursions on replica Biloxi schooners.
 
-**Deer Island** sits just offshore and is a undeveloped barrier island — no facilities, accessible only by boat, home to a feral horse population that's been there for decades. It's visible from the beach road.
+## Biloxi Town Green and Keesler Area
 
-**Buccaneer State Park** is just west of Biloxi in Waveland — 208 acres with camping, a wave pool in summer, and access to the beach.
+The **Biloxi Town Green** is a waterfront park and event venue that hosts concerts, festivals, and community gatherings throughout the year. It is a great spot to watch the sunset over the Mississippi Sound. Nearby, the area around **Keesler Air Force Base** on the eastern side of the city has its own cluster of restaurants and shops that cater to both military families and locals.
 
-## Day Trips
-
-**New Orleans** is ninety minutes west. **Mobile** is forty-five minutes east. **Ship Island** ferry leaves from Gulfport, twenty minutes up the road.
-
-Check the [events calendar](/events/) for what's happening during your visit.
+Check the [events calendar](/events/) for festivals, live music, and seasonal happenings during your visit.
