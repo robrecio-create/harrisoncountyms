@@ -8827,10 +8827,10 @@
   },
   {
     "id": 330,
-    "title": "Singing River Medical Clinic – Orange Grove",
+    "title": "Singing River Medical Clinic \u2013 Orange Grove",
     "slug": "singing-river-medical-clinic-orange-grove",
     "status": "publish",
-    "content": "Singing River Medical Clinic – Orange Grove is a primary care and urgent care clinic operated by Singing River Health System in Gulfport, providing medical services for adults and children including sick visits, wellness exams, immunizations, and minor procedures. Part of one of Mississippi's largest non-profit healthcare organizations.",
+    "content": "Singing River Medical Clinic \u2013 Orange Grove is a primary care and urgent care clinic operated by Singing River Health System in Gulfport, providing medical services for adults and children including sick visits, wellness exams, immunizations, and minor procedures. Part of one of Mississippi's largest non-profit healthcare organizations.",
     "excerpt": "",
     "post_date": "2026-03-12",
     "address": "17501 Hwy 57, Gulfport, MS 39503",
@@ -14582,7 +14582,7 @@
   },
   {
     "id": 552,
-    "title": "Jalapeño Grill Long Beach",
+    "title": "Jalape\u00f1o Grill Long Beach",
     "slug": "jalape-o-grill-long-beach",
     "status": "publish",
     "content": "Mexican grill in Long Beach with fresh Tex-Mex dishes, margaritas, and a friendly neighborhood atmosphere.",
@@ -17884,7 +17884,7 @@
   },
   {
     "id": 679,
-    "title": "Skål Axe Throwing",
+    "title": "Sk\u00e5l Axe Throwing",
     "slug": "sk-l-axe-throwing",
     "status": "publish",
     "content": "Axe throwing venue in Gulfport offering lane rentals, leagues, and private events for groups.",
@@ -29933,5 +29933,33 @@
       "locally-owned"
     ],
     "featured": false
+  },
+  {
+    "id": 1136,
+    "title": "Deaconess Hospice of Biloxi",
+    "slug": "deaconess-hospice-of-biloxi",
+    "status": "publish",
+    "content": "Trusted hospice care in Biloxi, providing compassionate support and comfort for patients and families across the Mississippi Gulf Coast.",
+    "excerpt": "",
+    "post_date": "2026-04-06T15:05:00",
+    "address": "1641A Popps Ferry Road Suite A-5, Biloxi, MS 39532",
+    "phone": "(228) 435-2265",
+    "email": "",
+    "website": "https://lhcgroup.com/locations/deaconess-hospice-of-biloxi/",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "categories": [
+      "Health & Medical"
+    ],
+    "location": [
+      "Biloxi"
+    ],
+    "tags": [
+      "hospice care"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": ""
   }
 ]
