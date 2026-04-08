@@ -29961,5 +29961,40 @@
     "deal_title": "",
     "deal_description": "",
     "deal_expiry": ""
+  },
+  {
+    "id": 1137,
+    "title": "Sunflour Sourdough Co. LLC",
+    "slug": "sunflour-sourdough-co-llc",
+    "status": "publish",
+    "content": "Sunflour Sourdough Co. LLC is a cottage bakery serving Latimer, Biloxi, Ocean Springs, Vancleave, D\u2019Iberville, and surrounding areas with sourdough loaves, cookies, preorder pickup and delivery, and beginner bread classes.",
+    "excerpt": "Cottage bakery offering sourdough bread, cookies, preorder pickup, delivery, and classes.",
+    "post_date": "2026-04-07 20:26:37",
+    "address": "Latimer, MS 39532",
+    "phone": "(619) 863-3005",
+    "email": "",
+    "website": "",
+    "latitude": "",
+    "longitude": "",
+    "featured": false,
+    "listing_tier": "free",
+    "categories": [
+      "Restaurants & Dining"
+    ],
+    "location": [
+      "Latimer"
+    ],
+    "tags": [
+      "bakery",
+      "sourdough",
+      "cookies",
+      "classes",
+      "locally-owned"
+    ],
+    "deal_title": "",
+    "deal_description": "",
+    "deal_expiry": "",
+    "facebook_url": "https://www.facebook.com/sunflour.sourdoughco",
+    "instagram_url": "https://www.instagram.com/sunflour.sourdoughco"
   }
 ]
