@@ -2,10 +2,10 @@
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
-import eventsData from '../../data/events.json';
+import { getCountyEvents } from '../../lib/events';
 
-export function getStaticPaths() {
-  const events = (eventsData as any[]).filter(e => e.status === 'publish');
+export async function getStaticPaths() {
+  const events = await getCountyEvents('harrison-ms');
   return events.map(event => ({ params: { slug: event.slug }, props: { event } }));
 }
 
@@ -15,9 +15,14 @@ function formatDate(dateStr: string) {
   const date = new Date(dateStr + 'T00:00:00');
   return date.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 }
+
+const rawEventDesc = event.content || '';
+const eventSeoDesc = rawEventDesc.length > 155
+  ? rawEventDesc.slice(0, 152).trimEnd() + '...'
+  : rawEventDesc || `${event.title} — ${formatDate(event.date)} at ${event.venue} in ${event.city || 'Harrison County'}, MS.`;
 ---
 
-<Layout title={`${event.title} — Harrison County MS Events`}>
+<Layout title={`${event.title} — Harrison County MS Events`} description={eventSeoDesc}>
   <Header activePage="Events" />
 
   <section class="page-hero">
